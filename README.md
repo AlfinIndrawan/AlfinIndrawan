@@ -48,12 +48,8 @@ No Activity Tracked This Week
 
 ```
 
-**Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/AlfinIndrawan/AlfinIndrawan/main/charts/bar_graph.png) 
-
-
- Last Updated on 19/04/2022 15:17:00 UTC
+ Last Updated on 19/04/2022 15:22:00 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
