@@ -22,9 +22,9 @@
 <a href="https://getbootstrap.com" > <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"> </a>
 
 ## My Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfinindrawan&hide=Makefile,C,C++,Cmake&&theme=dark)](https://github.com/alfinindrawan/github-readme-stats)  
+
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%20mins-blue)
+
 
 **I'm an Early 🐤** 
 
@@ -51,7 +51,7 @@ No Activity Tracked This Week
 
  Last Updated on 19/04/2022 15:22:00 UTC
 <!--END_SECTION:waka-->
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfinindrawan&hide=Makefile,C,C++,Cmake&&theme=dark)](https://github.com/alfinindrawan/github-readme-stats)  
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
