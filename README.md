@@ -24,14 +24,12 @@
 ## My Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%20mins-blue)
-
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    35 commits     █████░░░░░░░░░░░░░░░░░░░░   23.18% 
-🌆 Daytime    83 commits     █████████████░░░░░░░░░░░░   54.97% 
-🌃 Evening    33 commits     █████░░░░░░░░░░░░░░░░░░░░   21.85% 
+🌞 Morning    35 commits     █████░░░░░░░░░░░░░░░░░░░░   23.03% 
+🌆 Daytime    83 commits     █████████████░░░░░░░░░░░░   54.61% 
+🌃 Evening    34 commits     █████░░░░░░░░░░░░░░░░░░░░   22.37% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
@@ -49,7 +47,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 19/04/2022 15:36:09 UTC
+ Last Updated on 19/04/2022 15:42:18 UTC
 <!--END_SECTION:waka-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfinindrawan&hide=Makefile,C,C++,Cmake&&theme=dark)](https://github.com/alfinindrawan/github-readme-stats)  
 <p align="center">
