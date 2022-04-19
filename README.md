@@ -21,4 +21,4 @@
 <a href="https://getbootstrap.com" > <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"> </a> 
 ## My Stats
 <!-- ![Alfin's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfinindrawan&show_icons=true&theme=radical&count_private=true) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfinindrawan&layout=compact&hide=Makefile,C,C++,Cmake&&theme=dark)](https://github.com/alfinindrawan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfinindrawan&hide=Makefile,C,C++,Cmake&&theme=dark)](https://github.com/alfinindrawan/github-readme-stats)
