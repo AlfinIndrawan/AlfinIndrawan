@@ -8,7 +8,7 @@
 * 📝 See my [LinkedIn](https://www.linkedin.com/in/alfinindrawan/) for more info.
 
 ## Languages
-<code><img height="30" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"></code> 
+<code><img height="30" src="https://img.shields.io/badge/-Swift-3b2e5a?style=plastic&logo=swift"></code> 
 <code><img height="30" src="https://img.icons8.com/color/452/dart.png" ></code> 
 <code><img height="30" src="https://img.icons8.com/color/48/000000/php.png"></code> 
 <code><img height="30" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-sql-servers-and-networks-soft-fill-soft-fill-juicy-fish.png"></code> 
