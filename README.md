@@ -8,10 +8,10 @@
 * 📝 See my [LinkedIn](https://www.linkedin.com/in/alfinindrawan/) for more info.
 
 ## Languages
-![Swift Badge]("https://img.shields.io/badge/-Swift-FCA121?style=plastic&logo=Swift")
-![Dart Badge]("https://img.shields.io/badge/-Dart-3b2e5a?style=plastic&logo=Dart")
+![Swift Badge]("https://img.shields.io/badge/-Swift-FCA121?style=plastic&logo=swift")
+![Dart Badge]("https://img.shields.io/badge/-Dart-3b2e5a?style=plastic&logo=dart")
 ![Php](https://img.shields.io/badge/-php-394989?style=plastic&logo=php)
- ![PostgreSQL](https://img.shields.io/badge/-SQL-336791?style=plastic&logo=postgresql&logocolor=white)
+![PostgreSQL](https://img.shields.io/badge/-SQL-336791?style=plastic&logo=postgresql&logocolor=white)
 ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
 
 ## Frameworks
