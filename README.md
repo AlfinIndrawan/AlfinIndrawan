@@ -15,7 +15,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
 * ⚙️ Frameworks I use: 
-<a href="https://drive.google.com/uc?export=view&id=1GDv4tod24sj0PfGFBtP2CHV-roC51XhU" > <img src="https://drive.google.com/uc?export=view&id=1GDv4tod24sj0PfGFBtP2CHV-roC51XhU" style="height: 30px"> </a> 
+<a href="https://developer.apple.com/documentation/uikit" > <img src="https://img.icons8.com/color/48/000000/xcode.png" style="height: 30px"> </a> 
 <a href="https://developer.apple.com/xcode/swiftui/" > <img height="30" src="https://img.icons8.com/color/48/000000/swiftui.png"> </a> 
 <a href="https://laravel.com" > <img height="30" src="https://img.icons8.com/fluency/48/000000/laravel.png"> </a> 
 <a href="https://flutter.com" > <img height="30" src="https://img.icons8.com/color/48/000000/flutter.png"> </a> 
