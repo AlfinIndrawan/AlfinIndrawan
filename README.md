@@ -1,6 +1,6 @@
-# Hi there 👋
-
-My name is Alfin Indrawan,
+# Hi, I'm Alfin  👋
+ I'm Alfin Indrawan a mobile developer and data engineer enthusiast  
+# My Personal Stuffs
 * 🌱 I love Swift and Flutter
 * 🔭 I’m currently learning on [hackingwithswift.com](hackingwithswift.com)
 * 🤔 I’m looking for help with Swift Best Practice & IOS Experience
