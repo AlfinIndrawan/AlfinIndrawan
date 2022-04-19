@@ -11,6 +11,6 @@ jobs:
     name: Update this Readme
     runs-on: ubuntu-latest
     steps:
-      - uses: AlfinIndrawan/AlfinIndrawan
+      - uses: AlfinIndrawan/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
