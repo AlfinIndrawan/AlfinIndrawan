@@ -9,7 +9,7 @@
 
 ## Languages
 ![Swift](https://img.shields.io/badge/-Swift-FF6700?style=plastic&logo=swift&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-3b2e5a?style=plastic&logo=dart)
+![Dart](https://img.shields.io/badge/-Dart-007ACC?style=plastic&logo=dart)
 ![Php](https://img.shields.io/badge/-php-394989?style=plastic&logo=php)
 ![PostgreSQL](https://img.shields.io/badge/-SQL-336791?style=plastic&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
