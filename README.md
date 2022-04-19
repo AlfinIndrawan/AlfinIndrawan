@@ -25,3 +25,8 @@
 ## My Stats
 <!-- ![Alfin's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfinindrawan&show_icons=true&theme=radical&count_private=true) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfinindrawan&hide=Makefile,C,C++,Cmake&&theme=dark)](https://github.com/alfinindrawan/github-readme-stats)
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
