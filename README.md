@@ -8,11 +8,11 @@
 * 📝 See my [LinkedIn](https://www.linkedin.com/in/alfinindrawan/) for more info.
 
 ## Languages
-<code><img height="30" src="https://img.shields.io/badge/-Swift-3b2e5a?style=plastic&logo=swift"></code> 
-<code><img height="30" src="https://img.icons8.com/color/452/dart.png" ></code> 
-<code><img height="30" src="https://img.icons8.com/color/48/000000/php.png"></code> 
-<code><img height="30" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-sql-servers-and-networks-soft-fill-soft-fill-juicy-fish.png"></code> 
-<code><img height="30" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" ></code> 
+![Swift Badge]("https://img.shields.io/badge/-Swift-FCA121?style=plastic&logo=swift")
+![Dart Badge]("https://img.shields.io/badge/-Dart-3b2e5a?style=plastic&logo=dart")
+![Php](https://img.shields.io/badge/-php-394989?style=plastic&logo=php)
+ ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql&logocolor=white)
+![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
 
 ## Frameworks
 <a href="https://drive.google.com/uc?export=view&id=1GDv4tod24sj0PfGFBtP2CHV-roC51XhU" > <img src="https://drive.google.com/uc?export=view&id=1GDv4tod24sj0PfGFBtP2CHV-roC51XhU" style="height: 30px"> </a> 
