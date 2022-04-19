@@ -7,4 +7,4 @@ My name is Alfin Indrawan,
 * 📫 How to reach me: [click here](mailto:alfinindrawan54@gmail.com)
 
 <!-- ![Alfin's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfinindrawan&show_icons=true&theme=radical&count_private=true) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfinindrawan&layout=compact&hide=Makefile,C,C++,Blade)](https://github.com/alfinindrawan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfinindrawan&layout=compact&hide=Makefile,C,C++,Blade&&theme=radical)](https://github.com/alfinindrawan/github-readme-stats)
