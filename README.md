@@ -1,8 +1,8 @@
 # Hi, I'm Alfin  👋
- I'm **Alfin Indrawan** a swift developer and mobile developer enthusiast  
+ I'm **Alfin Indrawan** a swift developer and mobile developer enthusiast. My dreams are to create great Apple apps (IOS,MacOS,WatchOS) also extend my skills with flutter for all compatible devices!.
 ## My Personal Stuffs
 * ❤️ I love Swift and Flutter
-* 🔭 I’m currently learning on [hackingwithswift.com](https://www.hackingwithswift.com)
+* 🔭 I’m currently learning on [hackingwithswift.com](https://www.hackingwithswift.com). A great site for learning swift development!
 * 🤔 I’m looking for help with Swift Best Practice & IOS Experience
 * 📫 How to reach me: [click here](mailto:alfinindrawan54@gmail.com)
 * 📝 See my [LinkedIn](https://www.linkedin.com/in/alfinindrawan/) for more info.
