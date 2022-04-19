@@ -13,6 +13,8 @@
 ![Php](https://img.shields.io/badge/-php-394989?style=plastic&logo=php)
 ![PostgreSQL](https://img.shields.io/badge/-SQL-336791?style=plastic&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
 
 ## Frameworks
 <a href="https://drive.google.com/uc?export=view&id=1GDv4tod24sj0PfGFBtP2CHV-roC51XhU" > <img src="https://drive.google.com/uc?export=view&id=1GDv4tod24sj0PfGFBtP2CHV-roC51XhU" style="height: 30px"> </a> 
