@@ -1,5 +1,5 @@
 # Hi, I'm Alfin  👋
- I'm **Alfin Indrawan** a swift developer and data engineer enthusiast  
+ I'm **Alfin Indrawan** a swift developer and mobile developer enthusiast  
 ## My Personal Stuffs
 * ❤️ I love Swift and Flutter
 * 🔭 I’m currently learning on [hackingwithswift.com](https://www.hackingwithswift.com)
