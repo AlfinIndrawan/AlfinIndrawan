@@ -19,7 +19,7 @@
 <a href="https://laravel.com" > <img height="30" src="https://img.icons8.com/fluency/48/000000/laravel.png"> </a> 
 <a href="https://flutter.com" > <img height="30" src="https://img.icons8.com/color/48/000000/flutter.png"> </a> 
 <a href="https://getbootstrap.com" > <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"> </a>
-<a href="https://getbootstrap.com" > <img height="30" src="https://amaranthinetech.files.wordpress.com/2018/07/storyboardicon.png?w=1024&#038;h=416&#038;crop=1"> </a> 
+<a href="https://getbootstrap.com" > <img height="30" src="https://amaranthinetech.files.wordpress.com/2018/07/storyboardicon.png"> </a> 
 ## My Stats
 <!-- ![Alfin's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfinindrawan&show_icons=true&theme=radical&count_private=true) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfinindrawan&hide=Makefile,C,C++,Cmake&&theme=dark)](https://github.com/alfinindrawan/github-readme-stats)
