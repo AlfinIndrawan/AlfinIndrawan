@@ -7,7 +7,7 @@
 * 📫 How to reach me: [click here](mailto:alfinindrawan54@gmail.com)
 * 📝 See my [LinkedIn](https://www.linkedin.com/in/alfinindrawan/) for more info.
 
-## Languages and Tools
+## Languages
 <code><img height="30" src="https://img.icons8.com/fluency/48/000000/swift.png"></code> 
 <code><img height="30" src="https://img.icons8.com/color/452/dart.png" ></code> 
 <code><img height="30" src="https://img.icons8.com/color/48/000000/php.png"></code> 
