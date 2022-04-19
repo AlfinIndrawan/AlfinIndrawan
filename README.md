@@ -17,11 +17,11 @@
 <code><img height="20" src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg"></code>
 
 ## Frameworks
-<a href="https://developer.apple.com/xcode/swiftui/" ><img height="20" src="https://img.icons8.com/color/48/000000/swiftui.png"></a>
-<code><img height="20" src="https://img.icons8.com/fluency/48/000000/laravel.png"></code>
-<code><img height="20" src="https://img.icons8.com/color/48/000000/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-
+<a href="https://developer.apple.com/xcode/swiftui/" > <img height="20" src="https://img.icons8.com/color/48/000000/swiftui.png"></a>
+<a href="https://laravel.com" > <img height="20" src="https://img.icons8.com/fluency/48/000000/laravel.png"></a>
+<a href="https://flutter.com" > <img height="20" src="https://img.icons8.com/color/48/000000/flutter.png"> 
+<a href="https://getbootstrap.com" > <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"> 
+ </a>
 ## My Stats
 <!-- ![Alfin's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfinindrawan&show_icons=true&theme=radical&count_private=true) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfinindrawan&layout=compact&hide=Makefile,C,C++,Blade&&theme=dark)](https://github.com/alfinindrawan/github-readme-stats)
