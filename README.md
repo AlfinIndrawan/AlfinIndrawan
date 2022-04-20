@@ -37,16 +37,16 @@
 
 ```text
 💬 Programming Languages: 
-PHP                      7 mins              ███████████████████████░░   95.05% 
-Swift                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   4.95%
+PHP                      7 mins              █████████████████████░░░░   83.84% 
+Swift                    1 min               ████░░░░░░░░░░░░░░░░░░░░░   16.16%
 
 💻 Operating System: 
-Mac                      7 mins              █████████████████████████   100.0%
+Mac                      8 mins              █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 20/04/2022 17:25:06 UTC
+ Last Updated on 20/04/2022 18:17:53 UTC
 <!--END_SECTION:waka-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfinindrawan&hide=Makefile,C,C++,Cmake&&theme=dark)](https://github.com/alfinindrawan/github-readme-stats)  
 <p align="center">
