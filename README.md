@@ -4,8 +4,6 @@
 * ❤️ I love Swift and Flutter
 * 🔭 I’m currently learning on [hackingwithswift.com](https://www.hackingwithswift.com). A great site for learning swift development!
 * 🤔 I’m looking for help with Swift Best Practice & IOS Experience
-* 📫 How to reach me: [click here](mailto:alfinindrawan54@gmail.com)
-* 📝 See my [LinkedIn](https://www.linkedin.com/in/alfinindrawan/) for more info.
 * 📚 Languages I use: ![Swift](https://img.shields.io/badge/-Swift-FF6700?style=plastic&logo=swift&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-007ACC?style=plastic&logo=dart)
 ![Php](https://img.shields.io/badge/-php-394989?style=plastic&logo=php)
@@ -20,6 +18,8 @@
 <a href="https://laravel.com" > <img height="30" src="https://img.icons8.com/fluency/48/000000/laravel.png"> </a> 
 <a href="https://flutter.com" > <img height="30" src="https://img.icons8.com/color/48/000000/flutter.png"> </a> 
 <a href="https://getbootstrap.com" > <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"> </a>
+* 📫 How to reach me: [click here](mailto:alfinindrawan54@gmail.com)
+* 📝 See my [LinkedIn](https://www.linkedin.com/in/alfinindrawan/) for more info. 
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
