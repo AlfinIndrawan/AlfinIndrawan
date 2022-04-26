@@ -1,5 +1,6 @@
-## Hi, I'm Alfin  👋
- I'm **Alfin Indrawan** a Swift developer and mobile developer enthusiast. My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS) and also extend my skills with Flutter for all  devices!  
+## Hi, I'm Alfin  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+ I'm **Alfin Indrawan** a Swift developer and mobile developer enthusiast. My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS) and also extend my skills with Flutter for all  devices! 
+ <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 ## My Personal Stuffs
 * ❤️ I love Swift and Flutter
 * 🔭 I’m currently learning on [hackingwithswift.com](https://www.hackingwithswift.com). A great site for learning swift development!
