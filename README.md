@@ -55,6 +55,9 @@ Mac                      4 hrs 48 mins       ███████████�
 
 
 <!--END_SECTION:waka-->
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=alfinindrawan&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=itgoyo&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfinindrawan&hide=Makefile,C,C++,Cmakebg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/alfinindrawan/github-readme-stats)  
 <p align="center">
