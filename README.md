@@ -60,10 +60,9 @@ Mac                      5 hrs 1 min         ███████████�
 <p align="center">
 <a href="https://github.com/AlfinIndrawan/AlfinIndrawan"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfinindrawan&hide=Makefile,C,C++,Cmake&bg_color=45,904e95,F05138&title_color=fff&text_color=fff&layout=compact&hide_border=true" alt="Alfin's github stats" /></a> | <a href="https://github.com/AlfinIndrawan/AlfinIndrawan"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alfinindrawan&bg_color=45,904e95,F05138&title_color=fff&text_color=fff&include_all_commits=true&hide_border=true" /></a> |
 | ------------- | ------------- |
- </p>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfinindrawan&hide=Makefile,C,C++,Cmake&bg_color=45,904e95,F05138&title_color=fff&text_color=fff&layout=compact)](https://github.com/alfinindrawan/github-readme-stats)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=alfinindrawan&bg_color=45,904e95,F05138&title_color=fff&text_color=fff&include_all_commits=true&hide_border=true) -->
- 
+</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
