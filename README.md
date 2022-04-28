@@ -57,9 +57,9 @@ Mac                      5 hrs 1 min         ███████████�
  Last Updated on 28/04/2022 01:53:48 UTC
 <!--END_SECTION:waka-->
 <!-- e96443 -->
- 
-<a href="https://github.com/AlfinIndrawan/AlfinIndrawan"><img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfinindrawan&hide=Makefile,C,C++,Cmake&bg_color=45,904e95,F05138&title_color=fff&text_color=fff&layout=compact&hide_border=true" alt="Alfin's github stats" /></a><a href="https://github.com/AlfinIndrawan/AlfinIndrawan"><img align="center" width="49%" height="130%" src="https://github-readme-stats.vercel.app/api?username=alfinindrawan&bg_color=45,904e95,F05138&title_color=fff&text_color=fff&include_all_commits=true&hide_border=true" /></a>
- 
+<div justify-content="center">
+<a href="https://github.com/AlfinIndrawan/AlfinIndrawan"><img align="center" width="49%" display="flex" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfinindrawan&hide=Makefile,C,C++,Cmake&bg_color=45,904e95,F05138&title_color=fff&text_color=fff&layout=compact&hide_border=true" alt="Alfin's github stats" /></a><a href="https://github.com/AlfinIndrawan/AlfinIndrawan"><img align="center" width="49%" height="130%" display="flex" src="https://github-readme-stats.vercel.app/api?username=alfinindrawan&bg_color=45,904e95,F05138&title_color=fff&text_color=fff&include_all_commits=true&hide_border=true" /></a>
+ </div>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfinindrawan&hide=Makefile,C,C++,Cmake&bg_color=45,904e95,F05138&title_color=fff&text_color=fff&layout=compact)](https://github.com/alfinindrawan/github-readme-stats)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=alfinindrawan&bg_color=45,904e95,F05138&title_color=fff&text_color=fff&include_all_commits=true&hide_border=true) -->
  
