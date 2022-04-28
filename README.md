@@ -64,5 +64,5 @@ Mac                      5 hrs 1 min         ███████████�
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=alfinindrawan&bg_color=45,904e95,F05138&title_color=fff&text_color=fff&include_all_commits=true&hide_border=true) -->
  
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:904e95,50:F05138,100:904e95&height=60&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:904e95,50:F05138,100:904e95&section=footer"/>
 </p>
