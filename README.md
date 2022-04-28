@@ -1,5 +1,5 @@
  
- ![header](https://capsule-render.vercel.app/api?type=waving&color==0:904e95 ,55:F05138,90:904e95&height=250&section=header&text=Alfin%20Indrawan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20A%20Swift%20And%20Mobile%20Dev%20Enthusiast!&descAlignY=55&descAlign=62)  
+ ![header](https://capsule-render.vercel.app/api?type=waving&color=0:904e95 ,55:F05138,100:904e95&height=250&section=header&text=Alfin%20Indrawan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20A%20Swift%20And%20Mobile%20Dev%20Enthusiast!&descAlignY=55&descAlign=62)  
  I'm **Alfin Indrawan** a Swift developer and mobile developer enthusiast. My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS) and also extend my skills with Flutter for all devices! 
  <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 ## My Personal Stuffs
