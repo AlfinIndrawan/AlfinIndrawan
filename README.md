@@ -1,8 +1,7 @@
 <p align="center">
-   <img src="https://capsule-render.vercel.app/api?type=waving&color==0:904e95,50:F05138,100:904e95&height=300&section=header&text=Alfin%20Indrawan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=A%Swift%20And%20Mobile%20Dev%20Enthusiast!&descAlignY=51&descAlign=62" width="100%">
+   <img src="https://capsule-render.vercel.app/api?type=waving&color==0:904e95,50:F05138,100:904e95&height=250&section=header&text=Alfin%20Indrawan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=A%Swift%20And%20Mobile%20Dev%20Enthusiast!&descAlignY=51&descAlign=62" width="100%">
 </p>
-## Hi, I'm Alfin  
- I'm **Alfin Indrawan** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> a Swift developer and mobile developer enthusiast. My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS) and also extend my skills with Flutter for all  devices! 
+ I'm **Alfin Indrawan** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/> a Swift developer and mobile developer enthusiast. My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS) and also extend my skills with Flutter for all  devices! 
  <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 ## My Personal Stuffs
 * ❤️ I love Swift and Flutter
