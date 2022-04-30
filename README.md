@@ -23,6 +23,7 @@
 * 📫 How to reach me: [click here](mailto:alfinindrawan54@gmail.com)
 * 📝 See my [LinkedIn](https://www.linkedin.com/in/alfinindrawan/) for more info. 
 ## My Stats
+
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
@@ -57,8 +58,8 @@ Mac                      5 hrs 57 mins       ███████████�
 
  Last Updated on 30/04/2022 01:25:42 UTC
 <!--END_SECTION:waka-->
-<!-- e96443 -->
-<div justify-content="center">
+
+<!-- e96443 --><div justify-content="center">
 <a href="https://github.com/AlfinIndrawan/AlfinIndrawan"><img align="center" width="45.5%" display="flex" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfinindrawan&hide=Makefile,C,C++,Cmake&bg_color=15,904e95,F05138&title_color=fff&text_color=fff&layout=compact&hide_border=true" alt="Alfin's github stats" /></a><a href="https://github.com/AlfinIndrawan/AlfinIndrawan"><img align="center" width="54.5%" src="https://github-readme-stats.vercel.app/api?username=alfinindrawan&bg_color=345,F05138,904e95&title_color=fff&text_color=fff&include_all_commits=true&hide_border=true" /></a>
  </div>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfinindrawan&hide=Makefile,C,C++,Cmake&bg_color=45,904e95,F05138&title_color=fff&text_color=fff&layout=compact)](https://github.com/alfinindrawan/github-readme-stats)
