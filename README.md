@@ -1,6 +1,6 @@
  
- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:AA31A8,25:FF6B2C,75:FF6B2C,100:AA31A8&height=250&section=header&text=Alfin%20Indrawan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20Swift%20And%20Flutter%20Enthusiast!&descAlignY=55&descAlign=69&fontColor=ffffff)  
- I'm **Alfin Indrawan** a Swift developer and mobile developer enthusiast. My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS) and also extend my skills with Flutter for all devices! 
+ ![header](https://capsule-render.vercel.app/api?type=waving&color=0:AA31A8,25:FF6B2C,75:FF6B2C,100:AA31A8&height=250&section=header&text=Alfin%20Indrawan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20Apple%20And%20Flutter%20Developer!&descAlignY=55&descAlign=69&fontColor=ffffff)  
+ I'm **Alfin Indrawan** an Apple developer and Flutter developer enthusiast. My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS) and extend my skills with Flutter for all devices and also learning backends like Go and Node.
  <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 ## My Personal Stuffs
 * ❤️ I love Swift and Flutter
