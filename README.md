@@ -57,7 +57,9 @@ Windows                  32 mins             ███████████�
 
  Last Updated on 21/05/2022 01:06:23 UTC
 <!--END_SECTION:waka-->
-Note: Xcode Code Signin apple id somehow broke when installing wakatime plugin (So there is no xcode time or swift time now). Maybe when i can, i will fix it. But if you wonder how much time i spent in Swift you can calculate time with Xcode = (Mac OS - VS Code + Windows OS)
+Note: Xcode Code Signin apple id somehow broke when installing wakatime plugin (So there is no xcode time or swift time now).  
+Maybe when i can, i will fix it. But if you wonder how much time i spent in Swift,  
+you can calculate time with Xcode = (Mac OS - VS Code + Windows OS)
 <!-- e96443 --><div justify-content="center">
 <a href="https://github.com/AlfinIndrawan/AlfinIndrawan"><img align="center" width="45.5%" display="flex" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfinindrawan&hide=Makefile,C,C++,Cmake&bg_color=15,904e95,F05138&title_color=fff&text_color=fff&layout=compact&hide_border=true&exclude_repo=swiftExplorationBooks-Answer" alt="Alfin's github stats" /></a><a href="https://github.com/AlfinIndrawan/AlfinIndrawan"><img align="center" width="54.5%" src="https://github-readme-stats.vercel.app/api?username=alfinindrawan&bg_color=345,F05138,904e95&title_color=fff&text_color=fff&include_all_commits=true&hide_border=true" /></a>
  </div>
