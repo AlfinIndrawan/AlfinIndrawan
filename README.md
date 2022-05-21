@@ -1,11 +1,13 @@
  
  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:AA31A8,25:FF6B2C,75:FF6B2C,100:AA31A8&height=250&section=header&text=Alfin%20Indrawan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20Apple%20And%20Flutter%20Developer!&descAlignY=55&descAlign=69&fontColor=ffffff)  
 I'm **Alfin Indrawan** an Apple developer and Flutter developer enthusiast.  
-My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS) and extend my skills with Flutter for all devices also learning backends like Go and Node. 
+My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS) and extend my skills with Flutter for all devices also learning backends like Go and Node.  
+<img align="right" height="270px" width="500px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif"/>
 ## My Personal Stuffs
-* ❤️ I love Swift and Flutter
-* 🔭 I’m currently learning on [hackingwithswift.com](https://www.hackingwithswift.com). A great site for learning swift development!
-* 🤔 I’m looking for help with Swift Best Practice & IOS Experience
+ 
+* ❤️ I love Swift and Flutter.<br/>
+* 🔭 I’m currently learning on [hackingwithswift.com](https://www.hackingwithswift.com). A great site for learning swift development!<br/>  
+* 🤔 I’m looking for help with Swift Best Practice & IOS Experience<br/>
 * 📚 Languages I use: ![Swift](https://img.shields.io/badge/-Swift-FF6700?style=plastic&logo=swift&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-007ACC?style=plastic&logo=dart)
 ![Php](https://img.shields.io/badge/-php-394989?style=plastic&logo=php)
