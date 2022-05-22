@@ -1,8 +1,9 @@
  
  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:AA31A8,25:FF6B2C,75:FF6B2C,100:AA31A8&height=250&section=header&text=Alfin%20Indrawan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20Apple%20And%20Flutter%20Developer!&descAlignY=55&descAlign=69&fontColor=ffffff)  
 I'm **Alfin Indrawan** an Apple developer and Flutter developer enthusiast
-My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS) and extend my skills with Flutter for all devices also learning backends like Go and Node.  
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif">  
+My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS) and extend my skills with Flutter for all devices also learning backends like Go and Node
+ 
+<!--  <img align="right" width="450" height="270" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif">   -->
 ## My Personal Stuffs
  
 * ❤️ I love Swift and Flutter.<br/>
@@ -31,9 +32,9 @@ My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS) and 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    37 commits     █████░░░░░░░░░░░░░░░░░░░░   21.39% 
+🌞 Morning    44 commits     ██████░░░░░░░░░░░░░░░░░░░   25.43% 
 🌆 Daytime    101 commits    ██████████████░░░░░░░░░░░   58.38% 
-🌃 Evening    35 commits     █████░░░░░░░░░░░░░░░░░░░░   20.23% 
+🌃 Evening    28 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.18% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
@@ -43,18 +44,21 @@ My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS) and 
 
 ```text
 💬 Programming Languages: 
-C                        32 mins             █████████████████████████   100.0%
+Swift                    42 mins             ██████████████░░░░░░░░░░░   56.29% 
+C                        32 mins             ███████████░░░░░░░░░░░░░░   43.71%
 
 🔥 Editors: 
-VS Code                  32 mins             █████████████████████████   100.0%
+Xcode                    42 mins             ██████████████░░░░░░░░░░░   56.29% 
+VS Code                  32 mins             ███████████░░░░░░░░░░░░░░   43.71%
 
 💻 Operating System: 
-Windows                  32 mins             █████████████████████████   100.0%
+Mac                      42 mins             ██████████████░░░░░░░░░░░   56.29% 
+Windows                  32 mins             ███████████░░░░░░░░░░░░░░   43.71%
 
 ```
 
 
- Last Updated on 22/05/2022 01:15:04 UTC
+ Last Updated on 21/05/2022 01:06:23 UTC
 <!--END_SECTION:waka-->
 Note: Xcode Code Signin apple id somehow broke when installing wakatime plugin (So there is no xcode time or swift time now).  
 Maybe when i can, i will fix it. But if you wonder how much time i spent in Swift,  
