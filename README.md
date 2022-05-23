@@ -32,9 +32,9 @@ My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS) and 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    44 commits     ██████░░░░░░░░░░░░░░░░░░░   25.43% 
+🌞 Morning    37 commits     █████░░░░░░░░░░░░░░░░░░░░   21.39% 
 🌆 Daytime    101 commits    ██████████████░░░░░░░░░░░   58.38% 
-🌃 Evening    28 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.18% 
+🌃 Evening    35 commits     █████░░░░░░░░░░░░░░░░░░░░   20.23% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
@@ -44,21 +44,18 @@ My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS) and 
 
 ```text
 💬 Programming Languages: 
-Swift                    42 mins             ██████████████░░░░░░░░░░░   56.29% 
-C                        32 mins             ███████████░░░░░░░░░░░░░░   43.71%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Xcode                    42 mins             ██████████████░░░░░░░░░░░   56.29% 
-VS Code                  32 mins             ███████████░░░░░░░░░░░░░░   43.71%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      42 mins             ██████████████░░░░░░░░░░░   56.29% 
-Windows                  32 mins             ███████████░░░░░░░░░░░░░░   43.71%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 21/05/2022 01:06:23 UTC
+ Last Updated on 23/05/2022 01:12:40 UTC
 <!--END_SECTION:waka-->
 Note: Xcode Code Signin apple id somehow broke when installing wakatime plugin (So there is no xcode time or swift time now).  
 Maybe when i can, i will fix it. But if you wonder how much time i spent in Swift,  
