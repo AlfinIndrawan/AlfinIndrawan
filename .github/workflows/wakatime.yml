@@ -22,5 +22,5 @@ jobs:
           SHOW_PROFILE_VIEWS: "False"
           SHOW_TOTAL_CODE_TIME: "False"
           SHOW_LOC_CHART: "False"
-          SHOW_LANGUAGES: "False"
+          SHOW_LANGUAGE: "False"
           SHOW_OS: "False"
