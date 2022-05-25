@@ -32,8 +32,8 @@ My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS) and 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    37 commits     █████░░░░░░░░░░░░░░░░░░░░   21.39% 
-🌆 Daytime    101 commits    ██████████████░░░░░░░░░░░   58.38% 
+🌞 Morning    35 commits     █████░░░░░░░░░░░░░░░░░░░░   20.23% 
+🌆 Daytime    103 commits    ███████████████░░░░░░░░░░   59.54% 
 🌃 Evening    35 commits     █████░░░░░░░░░░░░░░░░░░░░   20.23% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
@@ -55,7 +55,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 24/05/2022 01:22:27 UTC
+ Last Updated on 25/05/2022 01:21:16 UTC
 <!--END_SECTION:waka-->
 Note: Xcode Code Signin apple id somehow broke when installing wakatime plugin (So there is no xcode time or swift time now).  
 Maybe when i can, i will fix it. So , the stats only count supported editor except xcode
