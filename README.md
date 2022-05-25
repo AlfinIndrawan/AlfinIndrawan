@@ -32,10 +32,22 @@ My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS) and 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    35 commits     █████░░░░░░░░░░░░░░░░░░░░   20.23% 
-🌆 Daytime    103 commits    ███████████████░░░░░░░░░░   59.54% 
+🌞 Morning    32 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.5% 
+🌆 Daytime    106 commits    ███████████████░░░░░░░░░░   61.27% 
 🌃 Evening    35 commits     █████░░░░░░░░░░░░░░░░░░░░   20.23% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.89% 
+Tuesday      6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.47% 
+Wednesday    7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.05% 
+Thursday     100 commits    ██████████████░░░░░░░░░░░   57.8% 
+Friday       15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.67% 
+Saturday     18 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.4% 
+Sunday       22 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.72%
 
 ```
 
@@ -43,19 +55,13 @@ My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS) and 
 📊 **This Week I Spent My Time On** 
 
 ```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
 🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
 No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 25/05/2022 01:21:16 UTC
+ Last Updated on 25/05/2022 10:43:20 UTC
 <!--END_SECTION:waka-->
 Note: Xcode Code Signin apple id somehow broke when installing wakatime plugin (So there is no xcode time or swift time now).  
 Maybe when i can, i will fix it. So , i remove languages and OS stats in readme
