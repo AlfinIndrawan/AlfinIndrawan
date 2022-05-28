@@ -27,7 +27,7 @@ My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS) and 
 * 📝 See my Linkedin [Here](https://www.linkedin.com/in/alfinindrawan/). 
 * 🌐 See my Website [Here](https://www.alfindeveleoper.com/) (in Production).
 ## My Stats  
-![Metrics](https://metrics.lecoq.io/alfinindrawan?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&stackoverflow=1&base.indepth=false&languages.ignored=html%2C%20blade%2C%20markdown%2C%20C%2C%20C%2B%2B&languages.limit=4&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.aliases=javascript%3AJS%2C%20typescript%3ATS&languages.sections=recently-used&languages.details=percentage&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FJakarta)
+![Metrics](https://metrics.lecoq.io/alfinindrawan?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&base.indepth=false&languages.ignored=html%2C%20markdown%2C%20makefile%2C%20blade%2C%20C%2C%20C%2B%2B%2C%20yaml&languages.limit=4&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.aliases=javascript%3AJS%2Ctypescript%3ATS&languages.sections=recently-used&languages.details=percentage&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FJakarta)
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
