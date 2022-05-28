@@ -32,8 +32,8 @@ My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS) and 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    32 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
-🌆 Daytime    107 commits    ███████████████░░░░░░░░░░   60.8% 
+🌞 Morning    29 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.48% 
+🌆 Daytime    110 commits    ███████████████░░░░░░░░░░   62.5% 
 🌃 Evening    37 commits     █████░░░░░░░░░░░░░░░░░░░░   21.02% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
@@ -44,9 +44,9 @@ My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS) and 
 Monday       5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.84% 
 Tuesday      6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.41% 
 Wednesday    7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.98% 
-Thursday     100 commits    ██████████████░░░░░░░░░░░   56.82% 
+Thursday     97 commits     █████████████░░░░░░░░░░░░   55.11% 
 Friday       18 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.23% 
-Saturday     18 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.23% 
+Saturday     21 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.93% 
 Sunday       22 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
 
 ```
@@ -55,13 +55,10 @@ Sunday       22 commits     ███░░░░░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-🔥 Editors: 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
-
 ```
 
 
- Last Updated on 28/05/2022 01:17:32 UTC
+ Last Updated on 28/05/2022 07:59:34 UTC
 <!--END_SECTION:waka-->
 ![Metrics](https://metrics.lecoq.io/alfinindrawan?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&stackoverflow=1&base.indepth=false&languages.ignored=html%2C%20markdown%2C%20blade%2C%20C%2C%20C%2B%2B&languages.limit=4&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.aliases=javascript%3AJS&languages.sections=recently-used&languages.details=percentage&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stackoverflow.user=1&stackoverflow.sections=answers-top%2C%20questions-recent&stackoverflow.limit=1&stackoverflow.lines=2&stackoverflow.lines.snippet=1&config.timezone=Asia%2FJakarta)
 <div justify-content="center">
