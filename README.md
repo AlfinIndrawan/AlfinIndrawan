@@ -52,10 +52,6 @@ Sunday       22 commits     ███░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-```
 
 
  Last Updated on 28/05/2022 07:59:34 UTC
