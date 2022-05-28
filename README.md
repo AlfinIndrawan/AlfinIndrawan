@@ -27,6 +27,7 @@ My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS) and 
 * 📝 See my Linkedin [Here](https://www.linkedin.com/in/alfinindrawan/). 
 * 🌐 See my Website [Here](https://www.alfindeveleoper.com/) (in Production).
 ## My Stats
+![Metrics](https://metrics.lecoq.io/alfinindrawan?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&stackoverflow=1&base.indepth=false&languages.ignored=html%2C%20markdown%2C%20blade%2C%20C%2C%20C%2B%2B&languages.limit=4&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.aliases=javascript%3AJS&languages.sections=recently-used&languages.details=percentage&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stackoverflow.user=1&stackoverflow.sections=answers-top%2C%20questions-recent&stackoverflow.limit=1&stackoverflow.lines=2&stackoverflow.lines.snippet=1&config.timezone=Asia%2FJakarta)
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
@@ -56,7 +57,6 @@ Sunday       22 commits     ███░░░░░░░░░░░░░░�
 
  Last Updated on 28/05/2022 07:59:34 UTC
 <!--END_SECTION:waka-->
-![Metrics](https://metrics.lecoq.io/alfinindrawan?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&stackoverflow=1&base.indepth=false&languages.ignored=html%2C%20markdown%2C%20blade%2C%20C%2C%20C%2B%2B&languages.limit=4&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.aliases=javascript%3AJS&languages.sections=recently-used&languages.details=percentage&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stackoverflow.user=1&stackoverflow.sections=answers-top%2C%20questions-recent&stackoverflow.limit=1&stackoverflow.lines=2&stackoverflow.lines.snippet=1&config.timezone=Asia%2FJakarta)
 <div justify-content="center">
 <a href="https://github.com/AlfinIndrawan/AlfinIndrawan"><img align="center" width="45.5%" display="flex" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfinindrawan&hide=Makefile,C,C++,Cmake&bg_color=15,904e95,F05138&title_color=fff&text_color=fff&layout=compact&hide_border=true&exclude_repo=swiftExplorationBooks-Answer" alt="Alfin's github stats" /></a><a href="https://github.com/AlfinIndrawan/AlfinIndrawan"><img align="center" width="54.5%" src="https://github-readme-stats.vercel.app/api?username=alfinindrawan&bg_color=345,F05138,904e95&title_color=fff&text_color=fff&include_all_commits=true&hide_border=true" /></a>
  </div>
