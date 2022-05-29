@@ -24,4 +24,3 @@ jobs:
           SHOW_LOC_CHART: "False"
           SHOW_LANGUAGE: "False"
           SHOW_OS: "False"
-          SHOW_EDITORS: "False"
