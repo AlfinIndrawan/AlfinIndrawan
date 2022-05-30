@@ -28,7 +28,7 @@ My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS) and 
 * 📝 See my Linkedin [Here](https://www.linkedin.com/in/alfinindrawan/). 
 * 🌐 See my Website [Here](https://www.alfindeveleoper.com/) (in Production).
 ## My Stats  
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="100%">
+<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="100%"></p>
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
