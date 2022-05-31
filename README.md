@@ -34,18 +34,18 @@ My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS) and 
 
 ```text
 🌞 Morning    19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.61% 
-🌆 Daytime    120 commits    ████████████████░░░░░░░░░   67.04% 
-🌃 Evening    40 commits     █████░░░░░░░░░░░░░░░░░░░░   22.35% 
+🌆 Daytime    117 commits    ████████████████░░░░░░░░░   65.36% 
+🌃 Evening    43 commits     ██████░░░░░░░░░░░░░░░░░░░   24.02% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday       5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.79% 
+Monday       9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.03% 
 Tuesday      6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.35% 
 Wednesday    7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.91% 
-Thursday     81 commits     ███████████░░░░░░░░░░░░░░   45.25% 
+Thursday     77 commits     ██████████░░░░░░░░░░░░░░░   43.02% 
 Friday       18 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.06% 
 Saturday     35 commits     █████░░░░░░░░░░░░░░░░░░░░   19.55% 
 Sunday       27 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.08%
@@ -56,13 +56,12 @@ Sunday       27 commits     ███░░░░░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-🔥 Editors: 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+⌚︎ Time Zone: Asia/Jakarta
 
 ```
 
 
- Last Updated on 30/05/2022 01:23:13 UTC
+ Last Updated on 31/05/2022 01:21:24 UTC
 <!--END_SECTION:waka-->
 <div justify-content="center">
 <a href="https://github.com/AlfinIndrawan/AlfinIndrawan"><img align="center" width="45.5%" display="flex" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfinindrawan&hide=Makefile,C,C++,Cmake&bg_color=15,904e95,F05138&title_color=fff&text_color=fff&layout=compact&hide_border=true&exclude_repo=swiftExplorationBooks-Answer" alt="Alfin's github stats" /></a><a href="https://github.com/AlfinIndrawan/AlfinIndrawan"><img align="center" width="54.5%" src="https://github-readme-stats.vercel.app/api?username=alfinindrawan&bg_color=345,F05138,904e95&title_color=fff&text_color=fff&include_all_commits=true&hide_border=true" /></a>
