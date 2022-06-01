@@ -66,7 +66,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 86.4kb of code in 84 edited files across 64 commits over last 13 days</small>
+                <small>estimation from 86.4kb of code in 84 edited files across 64 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -74,7 +74,7 @@
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="181.17963546387006" height="8" fill="#563d7c"/>
                     <rect mask="url(#languages-bar)" x="181.17963546387006" y="0" width="5.684404356019737" height="8" fill="#F05138"/>
-                    <rect mask="url(#languages-bar)" x="186.8640398198898" y="0" width="3.81827859537065" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="186.8640398198898" y="0" width="3.81827859537065" height="8" fill="#f1e05a"/>
                     <rect mask="url(#languages-bar)" x="190.68231841526045" y="0" width="269.31768158473955" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
@@ -93,9 +93,9 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                JS
+                                JavaScript
                             </div>
                             <small>
                                 <div>0.83%</div>
