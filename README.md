@@ -33,22 +33,22 @@ My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS) and 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.61% 
-🌆 Daytime    117 commits    ████████████████░░░░░░░░░   65.36% 
-🌃 Evening    43 commits     ██████░░░░░░░░░░░░░░░░░░░   24.02% 
+🌞 Morning    19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.5% 
+🌆 Daytime    118 commits    ████████████████░░░░░░░░░   65.19% 
+🌃 Evening    44 commits     ██████░░░░░░░░░░░░░░░░░░░   24.31% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday       9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.03% 
-Tuesday      6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.35% 
-Wednesday    7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.91% 
-Thursday     77 commits     ██████████░░░░░░░░░░░░░░░   43.02% 
-Friday       18 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.06% 
-Saturday     35 commits     █████░░░░░░░░░░░░░░░░░░░░   19.55% 
-Sunday       27 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.08%
+Monday       9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.97% 
+Tuesday      8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.42% 
+Wednesday    7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.87% 
+Thursday     77 commits     ██████████░░░░░░░░░░░░░░░   42.54% 
+Friday       18 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.94% 
+Saturday     35 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.34% 
+Sunday       27 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.92%
 
 ```
 
@@ -61,7 +61,7 @@ Sunday       27 commits     ███░░░░░░░░░░░░░░�
 ```
 
 
- Last Updated on 31/05/2022 01:21:24 UTC
+ Last Updated on 01/06/2022 01:43:23 UTC
 <!--END_SECTION:waka-->
 <div justify-content="center">
 <a href="https://github.com/AlfinIndrawan/AlfinIndrawan"><img align="center" width="45.5%" display="flex" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfinindrawan&hide=Makefile,C,C++,Cmake&bg_color=15,904e95,F05138&title_color=fff&text_color=fff&layout=compact&hide_border=true&exclude_repo=swiftExplorationBooks-Answer" alt="Alfin's github stats" /></a><a href="https://github.com/AlfinIndrawan/AlfinIndrawan"><img align="center" width="54.5%" src="https://github-readme-stats.vercel.app/api?username=alfinindrawan&bg_color=345,F05138,904e95&title_color=fff&text_color=fff&include_all_commits=true&hide_border=true" /></a>
