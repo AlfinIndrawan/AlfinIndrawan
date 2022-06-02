@@ -33,22 +33,10 @@ My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS) and 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.5% 
-🌆 Daytime    118 commits    ████████████████░░░░░░░░░   65.19% 
-🌃 Evening    44 commits     ██████░░░░░░░░░░░░░░░░░░░   24.31% 
+🌞 Morning    18 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.84% 
+🌆 Daytime    119 commits    ████████████████░░░░░░░░░   65.03% 
+🌃 Evening    46 commits     ██████░░░░░░░░░░░░░░░░░░░   25.14% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.97% 
-Tuesday      8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.42% 
-Wednesday    7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.87% 
-Thursday     77 commits     ██████████░░░░░░░░░░░░░░░   42.54% 
-Friday       18 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.94% 
-Saturday     35 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.34% 
-Sunday       27 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.92%
 
 ```
 
@@ -56,12 +44,13 @@ Sunday       27 commits     ███░░░░░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Jakarta
+🔥 Editors: 
+VS Code                  5 hrs 26 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 01/06/2022 01:43:23 UTC
+ Last Updated on 02/06/2022 01:24:05 UTC
 <!--END_SECTION:waka-->
 <div justify-content="center">
 <a href="https://github.com/AlfinIndrawan/AlfinIndrawan"><img align="center" width="45.5%" display="flex" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfinindrawan&hide=Makefile,C,C++,Cmake&bg_color=15,904e95,F05138&title_color=fff&text_color=fff&layout=compact&hide_border=true&exclude_repo=swiftExplorationBooks-Answer" alt="Alfin's github stats" /></a><a href="https://github.com/AlfinIndrawan/AlfinIndrawan"><img align="center" width="54.5%" src="https://github-readme-stats.vercel.app/api?username=alfinindrawan&bg_color=345,F05138,904e95&title_color=fff&text_color=fff&include_all_commits=true&hide_border=true" /></a>
