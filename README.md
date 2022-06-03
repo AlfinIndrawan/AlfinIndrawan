@@ -1,6 +1,6 @@
  
  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:AA31A8,25:FF6B2C,75:FF6B2C,100:AA31A8&height=250&section=header&text=Alfin%20Indrawan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20Apple%20Platform%20Developer!&descAlignY=55&descAlign=70&fontColor=ffffff)  
-I'm **Alfin Indrawan** an Apple developer and Flutter developer enthusiast
+I'm **Alfin Indrawan** an informatics undergraduate stduent who aspire to become Apple developer and Flutter developer enthusiast
 My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS) and extend my skills with Flutter for all devices also learning backends like Go and Node
  
 <!--  <img align="right" width="450" height="270" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif">   -->
