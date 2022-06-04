@@ -55,9 +55,6 @@ VS Code                  11 hrs 30 mins      ███████████�
 <div justify-content="center">
 <a href="https://github.com/AlfinIndrawan/AlfinIndrawan"><img align="center" width="45.5%" display="flex" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfinindrawan&hide=Makefile,C,C++,Cmake,CSS&bg_color=15,904e95,F05138&title_color=fff&text_color=fff&layout=compact&hide_border=true&exclude_repo=swiftExplorationBooks-Answer" alt="Alfin's github stats" /></a><a href="https://github.com/AlfinIndrawan/AlfinIndrawan"><img align="center" width="54.5%" src="https://github-readme-stats.vercel.app/api?username=alfinindrawan&bg_color=345,F05138,904e95&title_color=fff&text_color=fff&include_all_commits=true&hide_border=true" /></a>
  </div>
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfinindrawan&hide=Makefile,C,C++,Cmake&bg_color=45,904e95,F05138&title_color=fff&text_color=fff&layout=compact)](https://github.com/alfinindrawan/github-readme-stats)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=alfinindrawan&bg_color=45,904e95,F05138&title_color=fff&text_color=fff&include_all_commits=true&hide_border=true) -->
- 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:904e95,50:F05138,100:904e95&section=footer&height=80" width="100%"/>
 </p>
