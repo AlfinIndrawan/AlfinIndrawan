@@ -33,9 +33,9 @@ My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS) and 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    22 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.96% 
-🌆 Daytime    113 commits    ███████████████░░░░░░░░░░   61.41% 
-🌃 Evening    49 commits     ██████░░░░░░░░░░░░░░░░░░░   26.63% 
+🌞 Morning    22 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.64% 
+🌆 Daytime    118 commits    ███████████████░░░░░░░░░░   62.43% 
+🌃 Evening    49 commits     ██████░░░░░░░░░░░░░░░░░░░   25.93% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
@@ -45,12 +45,12 @@ My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS) and 
 
 ```text
 🔥 Editors: 
-VS Code                  17 hrs 30 mins      █████████████████████████   100.0%
+VS Code                  21 hrs 10 mins      █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 07/06/2022 01:15:34 UTC
+ Last Updated on 08/06/2022 01:17:46 UTC
 <!--END_SECTION:waka-->
 <div justify-content="center">
 <a href="https://github.com/AlfinIndrawan/AlfinIndrawan"><img align="center" width="45.5%" display="flex" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfinindrawan&hide=Html, Makefile,C,C++,Cmake,CSS&bg_color=15,904e95,F05138&title_color=fff&text_color=fff&layout=compact&hide_border=true&exclude_repo=swiftExplorationBooks-Answer" alt="Alfin's github stats" /></a><a href="https://github.com/AlfinIndrawan/AlfinIndrawan"><img align="center" width="54.5%" src="https://github-readme-stats.vercel.app/api?username=alfinindrawan&bg_color=345,F05138,904e95&title_color=fff&text_color=fff&include_all_commits=true&hide_border=true" /></a>
