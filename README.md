@@ -39,6 +39,8 @@ My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS) and 
 <img src="https://img.shields.io/badge/-Laravel-black?style=plastic&logo=Laravel" height="25" /></img>
 <img src="https://img.shields.io/badge/-RxSwift-black?style=plastic&logo=reactivex&logoColor=B7178C" height="25" /></img>
 <img src="https://img.shields.io/badge/-Figma-black?style=plastic&logo=figma&logoColor=F24E1E" height="25" /></img>
+<img src="https://img.shields.io/badge/-Tableau-black?style=plastic&logo=tableau&logoColor=E97627" height="25" /></img>
+<img src="https://img.shields.io/badge/-SourceTree-black?style=plastic&logo=sourcetree&logoColor=0052CC" height="25" /></img>
 <img src="https://img.shields.io/badge/-Docker-black?style=plastic&logo=docker" height="25" /></img> <br/> <br/>
 
 </div>  
