@@ -10,8 +10,10 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: alfinindrawan/metrics@master
-
+      - uses: AlfinIndrawan/metrics@master
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          
           # Options
           user: alfinindrawan
           template: classic
