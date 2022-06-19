@@ -12,7 +12,7 @@ My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS) and 
 * 📫 How to reach me: [alfinindrawan@alfindeveloper.com](mailto:alfinindrawan@alfindeveloper.com)
 * 📝 See my Linkedin [Here](https://www.linkedin.com/in/alfinindrawan/). 
 * 🌐 See my Website [Here](https://www.alfindeveleoper.com/) (in Production).
-## My Tech
+## Tech I Use
 <div align="center">
 <img src="https://img.shields.io/badge/-Git-black?style=plastic&logo=git" height="25" /></img>
 <img src="https://img.shields.io/badge/-GitHub-black?style=plastic&logo=github" height="25" /></img>
@@ -37,7 +37,10 @@ My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS) and 
 <img src="https://img.shields.io/badge/-PostgreSQL-black?style=plastic&logo=postgresql&logoColor=336791" height="25" /></img>
 <img src="https://img.shields.io/badge/-Flutter-black?style=plastic&logo=flutter&logoColor=0180cd" height="25" /></img>
 <img src="https://img.shields.io/badge/-Laravel-black?style=plastic&logo=Laravel" height="25" /></img>
+<img src="https://img.shields.io/badge/-RxSwift-black?style=plastic&logo=reactivex&logoColor=B7178C" height="25" /></img>
+<img src="https://img.shields.io/badge/-Figma-black?style=plastic&logo=figma&logoColor=F24E1E" height="25" /></img>
 <img src="https://img.shields.io/badge/-Docker-black?style=plastic&logo=docker" height="25" /></img> <br/> <br/>
+
 </div>  
 
 ## My Stats  
