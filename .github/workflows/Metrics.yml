@@ -10,7 +10,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: AlfinIndrawan/metrics@master
+      - uses: AlfinIndrawan/metrics@{fork}
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           
