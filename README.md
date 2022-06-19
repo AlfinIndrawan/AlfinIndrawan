@@ -9,24 +9,37 @@ My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS) and 
 * ❤️ I love Swift and Flutter.<br/>
 * 🔭 I’m currently learning on [hackingwithswift.com](https://www.hackingwithswift.com). A great site for learning swift development!<br/>  
 * 🤔 I’m looking for help with Swift Best Practice & IOS Experience<br/>
-* 📚 Languages I use: ![Swift](https://img.shields.io/badge/-Swift-FF6700?style=plastic&logo=swift&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-007ACC?style=plastic&logo=dart)
-![Php](https://img.shields.io/badge/-php-394989?style=plastic&logo=php)
-![PostgreSQL](https://img.shields.io/badge/-SQL-336791?style=plastic&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
-* ⚙️ Frameworks I use: 
-<a href="https://developer.apple.com/documentation/uikit" > <img src="https://img.icons8.com/color/48/000000/xcode.png" style="height: 30px"> </a> 
-<a href="https://developer.apple.com/xcode/swiftui/" > <img height="30" src="https://img.icons8.com/color/48/000000/swiftui.png"> </a> 
-<a href="https://laravel.com" > <img height="30" src="https://img.icons8.com/fluency/48/000000/laravel.png"> </a> 
-<a href="https://flutter.com" > <img height="30" src="https://img.icons8.com/color/48/000000/flutter.png"> </a> 
-<a href="https://getbootstrap.com" > <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"> </a>
-<a href="https://nodejs.org" > <img height="30" src="https://img.icons8.com/color/48/000000/nodejs.png"></a>
 * 📫 How to reach me: [alfinindrawan@alfindeveloper.com](mailto:alfinindrawan@alfindeveloper.com)
 * 📝 See my Linkedin [Here](https://www.linkedin.com/in/alfinindrawan/). 
 * 🌐 See my Website [Here](https://www.alfindeveleoper.com/) (in Production).
+## My Tech
+<div align="center">
+<img src="https://img.shields.io/badge/-Git-black?style=plastic&logo=git" height="25" /></img>
+<img src="https://img.shields.io/badge/-GitHub-black?style=plastic&logo=github" height="25" /></img>
+<img src="https://img.shields.io/badge/-BitBucket-black?style=plastic&logo=bitbucket&logoColor=blue" height="25" /></img> <br/> <br/>
+
+<img src="https://img.shields.io/badge/-VS%20Code-black?style=plastic&logo=visual-studio-code&logoColor=007ACC" height="25" /></img>
+<img src="https://img.shields.io/badge/Xcode-black?style=plastic&logo=xcode" height="25" /></img> <br/> <br/>
+
+<img src="https://img.shields.io/badge/-Swift-black?style=plastic&logo=swift&logoColor=FF6700" height="25" /></img>
+<img src="https://img.shields.io/badge/-Dart-black?style=plastic&logo=dart&logoColor=007ACC" height="25" /></img>
+<img src="https://img.shields.io/badge/-HTML5-black?style=plastic&logo=html5&logoColor=E34F26" height="25" /></img>
+<img src="https://img.shields.io/badge/-CSS3-black?style=plastic&logo=css3&logoColor=1572B6" height="25" /></img>
+<img src="https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript" height="25" /></img>
+<img src="https://img.shields.io/badge/-C%2B%2B-black?style=plastic&logo=c%2B%2B&logoColor=0180cd" height="25" /></img>
+<img src="https://img.shields.io/badge/-Programming-black?style=plastic&logo=C&logoColor=5d6bc16" height="25" /></img>
+<img src="https://img.shields.io/badge/-Python-black?style=plastic&logo=Python" height="25" /></img>
+<img src="https://img.shields.io/badge/PHP-black?style=plastic&logo=php" height="25" /></img> <br/> <br/>
+
+<img src="https://img.shields.io/badge/-Bootstrap-black?style=plastic&logo=bootstrap" height="25" /></img>
+<img src="https://img.shields.io/badge/-Nodejs-black?style=plastic&logo=Node.js" height="25" /></img>
+<img src="https://img.shields.io/badge/-MySQL-black?style=plastic&logo=mysql" height="25" /></img>
+<img src="https://img.shields.io/badge/-PostgreSQL-black?style=plastic&logo=postgresql&logoColor=336791" height="25" /></img>
+<img src="https://img.shields.io/badge/-Flutter-black?style=plastic&logo=flutter&logoColor=0180cd" height="25" /></img>
+<img src="https://img.shields.io/badge/-Laravel-black?style=plastic&logo=Laravel" height="25" /></img>
+<img src="https://img.shields.io/badge/-Docker-black?style=plastic&logo=docker" height="25" /></img> <br/> <br/>
+</div>  
+
 ## My Stats  
 <p align="center"><img src="/github-metrics.svg" alt="Metrics" width="100%"></p>
 <!--START_SECTION:waka-->
