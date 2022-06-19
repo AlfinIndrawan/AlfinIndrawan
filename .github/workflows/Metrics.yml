@@ -11,6 +11,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@{fork}
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
           user: alfinindrawan
