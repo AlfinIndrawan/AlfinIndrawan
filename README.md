@@ -35,7 +35,7 @@ My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS,AROS)
 <img src="https://img.shields.io/badge/-Bootstrap-black?style=plastic&logo=bootstrap" height="25" /></img>
 <img src="https://img.shields.io/badge/-Nodejs-black?style=plastic&logo=Node.js" height="25" /></img>
 <img src="https://img.shields.io/badge/-MySQL-black?style=plastic&logo=mysql" height="25" /></img>
-<img src="https://img.shields.io/badge/-PostgreSQL-black?style=plastic&logo=postgresql&logoColor=336791" height="25" /></img>
+<img src="https://img.shields.io/badge/-PostgreSQL-black?style=plastic&logo=postgresql" height="25" /></img>
 <img src="https://img.shields.io/badge/-Flutter-black?style=plastic&logo=flutter&logoColor=0180cd" height="25" /></img>
 <img src="https://img.shields.io/badge/-Laravel-black?style=plastic&logo=Laravel" height="25" /></img>
 <img src="https://img.shields.io/badge/-RxSwift-black?style=plastic&logo=reactivex&logoColor=B7178C" height="25" /></img>
