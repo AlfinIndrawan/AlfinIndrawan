@@ -1,17 +1,17 @@
- 
- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:AA31A8,25:FF6B2C,75:FF6B2C,100:AA31A8&height=250&section=header&text=Alfin%20Indrawan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20Apple%20Platform%20Developer!&descAlignY=55&descAlign=70&fontColor=ffffff)  
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:AA31A8,25:FF6B2C,75:FF6B2C,100:AA31A8&height=250&section=header&text=Alfin%20Indrawan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20Apple%20Platform%20Developer!&descAlignY=55&descAlign=70&fontColor=ffffff)  
 I'm **Alfin Indrawan** an informatics undergraduate student who aspire to become Apple developer.
-My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS) and extend my skills with Flutter & Javascript for all devices also learning backends like Go and Node
+My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS,AROS) and extend my skills with Flutter & Javascript for all devices also learning backends like Go and Node
  
 <!--  <img align="right" width="450" height="270" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif">   -->
 ## My Personal Stuffs
  
-* ❤️ I love Swift and Flutter.<br/>
+* ❤️ I love Reading books and articles. Every day i read latest technology AR , Apple, Javascript on Medium , Reddit & Macrumors. While Im learning using books because how easy to relearn than videos ( Sometimes i will use videos if difficult to understand)
 * 🔭 I’m currently learning on [hackingwithswift.com](https://www.hackingwithswift.com). A great site for learning swift development!<br/>  
-* 🤔 I’m looking for help with Swift Best Practice & IOS Experience<br/>
 * 📫 How to reach me: [alfinindrawan@alfindeveloper.com](mailto:alfinindrawan@alfindeveloper.com)
 * 📝 See my Linkedin [Here](https://www.linkedin.com/in/alfinindrawan/). 
 * 🌐 See my Website [Here](https://www.alfindeveleoper.com/) (in Production).
+* 😬 Don't misunderstand me as Apple fanboy hehe. I want to become Apple Developer because how small its developer and big potential in Apple Ecosystem. I will use other tools if i want to
+
 ## My Tools
 <div align="center">
 <img src="https://img.shields.io/badge/-Git-black?style=plastic&logo=git" height="25" /></img>
