@@ -5,7 +5,7 @@ My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS,AROS)
 <!--  <img align="right" width="450" height="270" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif">   -->
 ## My Personal Stuffs
  
-* ❤️ I love Reading books and articles. Every day i read latest technology AR , Apple, Javascript on Medium , Reddit & Macrumors. While i'm learning using books because how easy to relearn than videos ( Sometimes i will use videos if difficult to understand)
+* ❤️ I love Reading books and articles. Every day i read latest technology AR , Apple, Javascript on Medium , Reddit & Macrumors. While i'm learning using books because how easy to relearn than videos ( Sometimes i use videos if difficult to understand)
 * 🔭 I’m currently learning on [hackingwithswift.com](https://www.hackingwithswift.com). A great site for learning swift development!<br/>  
 * 📫 How to reach me: [alfinindrawan@alfindeveloper.com](mailto:alfinindrawan@alfindeveloper.com)
 * 📝 See my Linkedin [Here](https://www.linkedin.com/in/alfinindrawan/). 
