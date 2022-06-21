@@ -5,7 +5,7 @@ My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS,Reali
 <!--  <img align="right" width="450" height="270" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif">   -->
 ## My Personal Stuffs
  
-* ❤️ I love Reading books and articles. Every day i read latest technology AR , Apple, Javascript on Medium , Reddit & Macrumors. While i'm learning using books because how easy to relearn than videos ( Sometimes i use videos if difficult to understand)
+* ❤️ I love Reading books and articles. Every day i read latest technology AR , Apple, Javascript on Medium , Reddit & Quora. While i'm learning using books because how easy to relearn than videos ( Sometimes i use videos if difficult to understand)
 * 🔭 I’m currently learning Swift & Javascript
 * 📈 I'm obsessed with data & metrics related to performance.
 * 📩 How to reach me: [alfinindrawan@alfindeveloper.com](mailto:alfinindrawan@alfindeveloper.com)
