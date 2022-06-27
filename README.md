@@ -15,7 +15,7 @@ My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS,Reali
 </div>  
 
 <details>
-<summary>My Tools</summary>
+<summary><h2><strong>My Tools</strong></h2></summary>
 <br>
 <div align="center">
 <img src="https://img.shields.io/badge/-Git-black?style=plastic&logo=git" height="25" /></img>
@@ -50,7 +50,7 @@ My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS,Reali
 </div>  
 </details>
 <details>
-<summary>My Stats</summary>
+<summary><h2><strong>My Stats</strong></h2></summary>
 <br>
 
 <p align="center"><img src="/github-metrics.svg" alt="Metrics" width="100%"></p>
@@ -83,7 +83,7 @@ Last Updated on 27/06/2022 01:41:29 UTC
  </div>
 </details>
 <details>
-<summary>My Favorite Books</summary><br>
+<summary><h2><strong>My Tools</strong></h2></summary><br>
 <ul>
 <li>Publisher</li>
   <ul>
