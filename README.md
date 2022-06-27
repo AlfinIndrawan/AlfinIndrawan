@@ -1,7 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:AA31A8,25:FF6B2C,75:FF6B2C,100:AA31A8&height=250&section=header&text=Alfin%20Indrawan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20Apple%20Platform%20Developer!&descAlignY=55&descAlign=70&fontColor=ffffff)  
 I'm **Alfin Indrawan** an informatics undergraduate student who aspire to become Apple developer.
 My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS,RealityOS) and extend my skills with Flutter & Javascript for all devices also learning backends like Go and Node
- 
+* Unordered list can use asterisks
+- Or minuses
++ Or pluses
 <!--  <img align="right" width="450" height="270" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif">   -->
 ## My Personal Stuffs
  
@@ -13,7 +15,11 @@ My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS,Reali
 * 🌐 See my Website [Here](https://www.alfindeveleoper.com/) (in Production).
 * 😬 Don't misunderstand me as Apple fanboy hehe. I want to become Apple Developer because how small its developer and big potential in Apple Ecosystem. I will use other tools if i want to
 
-## My Tools
+</div>  
+
+<details open>
+<summary>My Tools</summary>
+<br>
 <div align="center">
 <img src="https://img.shields.io/badge/-Git-black?style=plastic&logo=git" height="25" /></img>
 <img src="https://img.shields.io/badge/-GitHub-black?style=plastic&logo=github" height="25" /></img>
@@ -45,8 +51,11 @@ My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS,Reali
 <img src="https://img.shields.io/badge/-Docker-black?style=plastic&logo=docker" height="25" /></img> <br/> <br/>
 
 </div>  
+</details>
+<details open>
+<summary>My Stats</summary>
+<br>
 
-## My Stats  
 <p align="center"><img src="/github-metrics.svg" alt="Metrics" width="100%"></p>
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
@@ -69,12 +78,36 @@ VS Code                  2 hrs 16 mins       ███████████�
 ```
 
 
- Last Updated on 27/06/2022 01:41:29 UTC
+Last Updated on 27/06/2022 01:41:29 UTC
 <!--END_SECTION:waka-->
 <p>Note: I cant display XCode with my stats because it doesnt allows plugin
 <div justify-content="center">
 <a href="https://github.com/AlfinIndrawan/AlfinIndrawan"><img align="center" width="45.5%" display="flex" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfinindrawan&hide=Html, Makefile,C,C++,Cmake,CSS&bg_color=15,904e95,F05138&title_color=fff&text_color=fff&layout=compact&hide_border=true&exclude_repo=swiftExplorationBooks-Answer" alt="Alfin's github stats" /></a><a href="https://github.com/AlfinIndrawan/AlfinIndrawan"><img align="center" width="54.5%" src="https://github-readme-stats.vercel.app/api?username=alfinindrawan&bg_color=345,F05138,904e95&title_color=fff&text_color=fff&include_all_commits=true&hide_border=true" /></a>
  </div>
+</details>
+<details open>
+<summary>My Favorite Books</summary><br>
+<ul>
+<li>Publisher</li>
+  <ul>
+    <li><a href="https://www.packtpub.com/">Packt</a></li>
+    <li><a href="https://www.raywenderlich.com/books/">Raywenderlich</a></li>
+  </ul>
+ </ul>
+ 
+<ul>
+<li>Books</li>
+  <ul>
+    <li>Ios 15 programming for Beginners Sixth Edition (on Progress)</li>
+    <li>RxSwift Reactive programming with swift fourth edition</li>
+    <li>Advanced git (on Progress)</li>
+    <li>Ios Test Driven Development by Tutorials</li>
+    <li>Ios App Distribution & Best Practice first edition</li>
+    <li>Design Pattern by Tutorials in Swift Third Edition</li>
+  </ul>
+ </ul>
+</details>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:904e95,50:F05138,100:904e95&section=footer&height=80" width="100%"/>
 </p>
