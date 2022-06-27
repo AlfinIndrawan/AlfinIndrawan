@@ -96,10 +96,10 @@ Last Updated on 27/06/2022 01:41:29 UTC
 <li>Books</li>
   <ul>
     <li>Ios 15 programming for Beginners Sixth Edition (on Progress)</li>
-    <li>RxSwift Reactive programming with swift fourth edition</li>
+    <li>RxSwift Reactive programming with swift Fourth edition</li>
     <li>Advanced git (on Progress)</li>
-    <li>Ios Test Driven Development by Tutorials</li>
-    <li>Ios App Distribution & Best Practice first edition</li>
+    <li>Ios Test Driven Development by Tutorials Second Edition</li>
+    <li>Ios App Distribution & Best Practice First edition</li>
     <li>Design Pattern by Tutorials in Swift Third Edition</li>
   </ul>
  </ul>
