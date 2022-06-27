@@ -14,7 +14,7 @@ My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS,Reali
 
 </div>  
 
-<details open>
+<details>
 <summary>My Tools</summary>
 <br>
 <div align="center">
@@ -49,7 +49,7 @@ My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS,Reali
 
 </div>  
 </details>
-<details open>
+<details>
 <summary>My Stats</summary>
 <br>
 
@@ -82,7 +82,7 @@ Last Updated on 27/06/2022 01:41:29 UTC
 <a href="https://github.com/AlfinIndrawan/AlfinIndrawan"><img align="center" width="45.5%" display="flex" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfinindrawan&hide=Html, Makefile,C,C++,Cmake,CSS&bg_color=15,904e95,F05138&title_color=fff&text_color=fff&layout=compact&hide_border=true&exclude_repo=swiftExplorationBooks-Answer" alt="Alfin's github stats" /></a><a href="https://github.com/AlfinIndrawan/AlfinIndrawan"><img align="center" width="54.5%" src="https://github-readme-stats.vercel.app/api?username=alfinindrawan&bg_color=345,F05138,904e95&title_color=fff&text_color=fff&include_all_commits=true&hide_border=true" /></a>
  </div>
 </details>
-<details open>
+<details>
 <summary>My Favorite Books</summary><br>
 <ul>
 <li>Publisher</li>
