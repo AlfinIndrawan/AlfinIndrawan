@@ -50,6 +50,28 @@ My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS,Reali
 </div>  
 </details>
 <details>
+<summary><h2><strong>My Read List</strong></h2></summary><br>
+<ul>
+<li>Publisher</li>
+  <ul>
+    <li><a href="https://www.packtpub.com/">Packt</a></li>
+    <li><a href="https://www.raywenderlich.com/books/">Raywenderlich</a></li>
+  </ul>
+ </ul>
+ 
+<ul>
+<li>Books</li>
+  <ul>
+    <li>Ios 15 programming for Beginners Sixth Edition (on Progress)</li>
+    <li>RxSwift Reactive programming with swift Fourth edition</li>
+    <li>Advanced git (on Progress)</li>
+    <li>Ios Test Driven Development by Tutorials Second Edition</li>
+    <li>Ios App Distribution & Best Practice First edition</li>
+    <li>Design Pattern by Tutorials in Swift Third Edition</li>
+  </ul>
+ </ul>
+</details>
+<details>
 <summary><h2><strong>My Stats</strong></h2></summary>
 <br>
 
@@ -82,28 +104,7 @@ VS Code                  1 hr 2 mins         ███████████�
 <a href="https://github.com/AlfinIndrawan/AlfinIndrawan"><img align="center" width="45.5%" display="flex" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfinindrawan&hide=Html, Makefile,C,C++,Cmake,CSS&bg_color=15,904e95,F05138&title_color=fff&text_color=fff&layout=compact&hide_border=true&exclude_repo=swiftExplorationBooks-Answer" alt="Alfin's github stats" /></a><a href="https://github.com/AlfinIndrawan/AlfinIndrawan"><img align="center" width="54.5%" src="https://github-readme-stats.vercel.app/api?username=alfinindrawan&bg_color=345,F05138,904e95&title_color=fff&text_color=fff&include_all_commits=true&hide_border=true" /></a>
  </div>
 </details>
-<details>
-<summary><h2><strong>My Read List</strong></h2></summary><br>
-<ul>
-<li>Publisher</li>
-  <ul>
-    <li><a href="https://www.packtpub.com/">Packt</a></li>
-    <li><a href="https://www.raywenderlich.com/books/">Raywenderlich</a></li>
-  </ul>
- </ul>
- 
-<ul>
-<li>Books</li>
-  <ul>
-    <li>Ios 15 programming for Beginners Sixth Edition (on Progress)</li>
-    <li>RxSwift Reactive programming with swift Fourth edition</li>
-    <li>Advanced git (on Progress)</li>
-    <li>Ios Test Driven Development by Tutorials Second Edition</li>
-    <li>Ios App Distribution & Best Practice First edition</li>
-    <li>Design Pattern by Tutorials in Swift Third Edition</li>
-  </ul>
- </ul>
-</details>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:904e95,50:F05138,100:904e95&section=footer&height=80" width="100%"/>
