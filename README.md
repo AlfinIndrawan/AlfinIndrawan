@@ -80,9 +80,9 @@ My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS,Reali
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    29 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.94% 
-🌆 Daytime    96 commits     ███████████░░░░░░░░░░░░░░   46.15% 
-🌃 Evening    82 commits     █████████░░░░░░░░░░░░░░░░   39.42% 
+🌞 Morning    29 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.88% 
+🌆 Daytime    96 commits     ███████████░░░░░░░░░░░░░░   45.93% 
+🌃 Evening    83 commits     ██████████░░░░░░░░░░░░░░░   39.71% 
 🌙 Night      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.48%
 
 ```
@@ -92,12 +92,12 @@ My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS,Reali
 
 ```text
 🔥 Editors: 
-VS Code                  39 mins             █████████████████████████   100.0%
+VS Code                  19 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 29/06/2022 01:22:11 UTC
+ Last Updated on 30/06/2022 01:20:57 UTC
 <!--END_SECTION:waka-->
 <p>Note: I cant display XCode with my stats because it doesnt allows plugin
 <div justify-content="center">
