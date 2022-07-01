@@ -71,7 +71,7 @@ My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS,Reali
   </ul>
  </ul>
 </details>
-<details>
+<details open>
 <summary><h2><strong>My Stats</strong></h2></summary>
 <br>
 
