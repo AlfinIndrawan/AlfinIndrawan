@@ -48,7 +48,9 @@ My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS,Reali
 <img src="https://img.shields.io/badge/-Docker-black?style=plastic&logo=docker" height="25" /></img> <br/> <br/>
 
 </div>  
+
 </details>
+<!--
 <details>
 <summary><h2><strong>My Read List</strong></h2></summary><br>
 <ul>
@@ -58,7 +60,7 @@ My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS,Reali
     <li><a href="https://www.raywenderlich.com/books/">Raywenderlich</a></li>
   </ul>
  </ul>
- 
+
 <ul>
 <li>Books</li>
   <ul>
@@ -71,6 +73,7 @@ My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS,Reali
   </ul>
  </ul>
 </details>
+-->
 <details open>
 <summary><h2><strong>My Stats</strong></h2></summary>
 <br>
