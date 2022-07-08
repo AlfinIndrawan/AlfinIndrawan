@@ -109,7 +109,7 @@ VS Code                  3 hrs 2 mins        ███████████�
 
  Last Updated on 08/07/2022 01:29:47 UTC
 <!--END_SECTION:waka-->
-<p>Note: I cant display XCode with my stats because it doesnt allows plugin & My study not purely using VSCode (Reading, Terminal, etc)
+<p>Note: I cant display XCode with my stats because it doesnt allows plugin & My study is not purely using VSCode (Reading, Terminal, etc)
 <div justify-content="center">
 <a href="https://github.com/AlfinIndrawan/AlfinIndrawan"><img align="center" width="45.5%" display="flex" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfinindrawan&hide=Html, Makefile,C,C++,Cmake,CSS&bg_color=15,904e95,F05138&title_color=fff&text_color=fff&layout=compact&hide_border=true&exclude_repo=swiftExplorationBooks-Answer" alt="Alfin's github stats" /></a><a href="https://github.com/AlfinIndrawan/AlfinIndrawan"><img align="center" width="54.5%" src="https://github-readme-stats.vercel.app/api?username=alfinindrawan&bg_color=345,F05138,904e95&title_color=fff&text_color=fff&include_all_commits=true&hide_border=true" /></a>
  </div>
