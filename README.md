@@ -55,6 +55,7 @@ My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS,Reali
 <br>
 
 <p align="center"><img src="/github-metrics.svg" alt="Metrics" width="100%"></p>
+<p align="center"><img src="/metrics.plugin.wakatime.svg" alt="Metrics" width="100%"></p>
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
