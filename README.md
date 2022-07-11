@@ -50,30 +50,6 @@ My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS,Reali
 </div>  
 
 </details>
-<!--
-<details>
-<summary><h2><strong>My Read List</strong></h2></summary><br>
-<ul>
-<li>Publisher</li>
-  <ul>
-    <li><a href="https://www.packtpub.com/">Packt</a></li>
-    <li><a href="https://www.raywenderlich.com/books/">Raywenderlich</a></li>
-  </ul>
- </ul>
-
-<ul>
-<li>Books</li>
-  <ul>
-    <li>Ios 15 programming for Beginners Sixth Edition (on Progress)</li>
-    <li>RxSwift Reactive programming with swift Fourth edition</li>
-    <li>Advanced git (on Progress)</li>
-    <li>Ios Test Driven Development by Tutorials Second Edition</li>
-    <li>Ios App Distribution & Best Practice First edition</li>
-    <li>Design Pattern by Tutorials in Swift Third Edition</li>
-  </ul>
- </ul>
-</details>
--->
 <details open>
 <summary><h2><strong>My Stats</strong></h2></summary>
 <br>
