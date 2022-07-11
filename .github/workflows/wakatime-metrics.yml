@@ -15,7 +15,7 @@ jobs:
           token: NOT_NEEDED
           base: ""
           plugin_wakatime: yes
-          plugin_wakatime_token: ${{ secrets.WAKATIME_API_TOKEN }}
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN}}
           plugin_wakatime_limit: 5
           plugin_wakatime_sections: time, languages-graphs, editors, os
           plugin_wakatime_repositories_visibility: public
