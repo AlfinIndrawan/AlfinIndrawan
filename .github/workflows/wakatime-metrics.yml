@@ -20,5 +20,5 @@ jobs:
           plugin_wakatime_sections: time, languages, languages-graphs, os
           plugin_wakatime_languages_ignored: css, blade, yaml, markdown
           plugin_wakatime_languages_other: yes
-          plugin_wakatime_repositories_visibility: public
+          plugin_wakatime_repositories_visibility: all
           plugin_wakatime_user: AlfinIndrawan
