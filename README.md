@@ -72,13 +72,13 @@ My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS,Reali
 
 ```text
 🔥 Editors: 
-VS Code                  2 hrs 50 mins       █████████████████████████   100.0% 
+VS Code                  2 hrs 25 mins       █████████████████████████   100.0% 
 IntelliJ                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 
 
- Last Updated on 12/07/2022 01:41:13 UTC
+ Last Updated on 13/07/2022 01:25:28 UTC
 <!--END_SECTION:waka-->
 <p>Note: I cant display XCode with my stats because it doesnt allows plugin & My study is not purely using VSCode (Reading, Terminal, etc)
 <div justify-content="center">
