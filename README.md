@@ -78,7 +78,7 @@ IntelliJ                 0 secs              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 13/07/2022 01:25:28 UTC
+ Last Updated on 14/07/2022 01:41:34 UTC
 <!--END_SECTION:waka-->
 <p>Note: I cant display XCode with my stats because it doesnt allows plugin & My study is not purely using VSCode (Reading, Terminal, etc)
 <div justify-content="center">
