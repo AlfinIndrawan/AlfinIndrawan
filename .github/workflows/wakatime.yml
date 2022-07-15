@@ -8,7 +8,7 @@ on:
 
 jobs:
   update-readme:
-    name: Update stats
+    name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
@@ -16,3 +16,4 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TOTAL: true
           SHOW_TITLE: true
+          COMMIT_MESSAGE: Updated Stats
