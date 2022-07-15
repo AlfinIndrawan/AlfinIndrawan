@@ -53,6 +53,20 @@ My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS,Reali
 <p align="center"><img src="/github-metrics.svg" alt="Metrics" width="100%"></p>
 <p align="center"><img src="/metrics.plugin.wakatime.svg" alt="Metrics" width="100%"></p>
 <!--START_SECTION:waka-->
+
+```text
+From: 07 July 2022 - To: 14 July 2022
+
+Total Time: 1 hr 32 mins
+
+HTML             1 hr 22 mins    ██████████████████████▒░░   89.50 %
+C                4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
+YAML             2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+CSS              2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
+Blade Template   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+Python           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+```
+
 <!--END_SECTION:waka-->
 <p>Note: I cant display XCode with my stats because it doesnt allows plugin & My study is not purely using VSCode (Reading, Terminal, etc)
 <div justify-content="center">
