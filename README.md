@@ -57,8 +57,6 @@ My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS,Reali
 ```text
 From: 07 July 2022 - To: 14 July 2022
 
-Total Time: 1 hr 32 mins
-
 HTML                             ██████████████████████▒░░   89.50 %
 C                                █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
 YAML                             ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
