@@ -18,7 +18,7 @@ jobs:
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN}}
           plugin_wakatime_limit: 5
           plugin_wakatime_sections: time, languages, os
-          plugin_wakatime_languages_ignored: html, css, blade templete, yaml, markdown
+          plugin_wakatime_languages_ignored: html, css, blade template, yaml, markdown
           plugin_wakatime_languages_other: yes
           plugin_wakatime_repositories_visibility: all
           plugin_wakatime_user: AlfinIndrawan
