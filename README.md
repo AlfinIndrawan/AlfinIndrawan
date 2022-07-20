@@ -31,6 +31,7 @@ My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS,Reali
 <img src="https://img.shields.io/badge/-C%2B%2B-black?style=plastic&logo=c%2B%2B&logoColor=0180cd" height="25" /></img>
 <img src="https://img.shields.io/badge/-Programming-black?style=plastic&logo=C&logoColor=5d6bc16" height="25" /></img>
 <img src="https://img.shields.io/badge/-Python-black?style=plastic&logo=Python" height="25" /></img>
+<img src="https://img.shields.io/badge/-Go-black?style=plastic&logo=Go" height="25" /></img>
 <img src="https://img.shields.io/badge/PHP-black?style=plastic&logo=php" height="25" /></img> <br/> <br/>
 
 <img src="https://img.shields.io/badge/-Bootstrap-black?style=plastic&logo=bootstrap" height="25" /></img>
