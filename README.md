@@ -45,11 +45,9 @@ My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS,Reali
 <img src="https://img.shields.io/badge/-Figma-black?style=plastic&logo=figma&logoColor=F24E1E" height="25" /></img>
 <img src="https://img.shields.io/badge/-Tableau-black?style=plastic&logo=tableau&logoColor=E97627" height="25" /></img>
 <img src="https://img.shields.io/badge/-Docker-black?style=plastic&logo=docker" height="25" /></img> <br/> <br/>
+</div>
 
-</div>  
-
-<details open>
-<summary><h2><strong>My Stats</strong></h2></summary>
+## My Stats
 <br>
 
 <p align="center"><img src="/github-metrics.svg" alt="Metrics" width="100%"></p>
@@ -68,11 +66,10 @@ YAML                             ▒░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-<p>Note: I cant display XCode with my stats because it doesnt allows plugin & My study is not purely using VSCode (Reading, Terminal, etc)
+
 <div justify-content="center">
 <a href="https://github.com/AlfinIndrawan/AlfinIndrawan"><img align="center" width="45.5%" display="flex" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfinindrawan&hide=Html, Makefile,C,C++,Cmake,CSS&bg_color=15,904e95,F05138&title_color=fff&text_color=fff&layout=compact&hide_border=true&exclude_repo=swiftExplorationBooks-Answer" alt="Alfin's github stats" /></a><a href="https://github.com/AlfinIndrawan/AlfinIndrawan"><img align="center" width="54.5%" src="https://github-readme-stats.vercel.app/api?username=alfinindrawan&bg_color=345,F05138,904e95&title_color=fff&text_color=fff&include_all_commits=true&hide_border=true" /></a>
  </div>
-</details>
 
 
 <p align="center">
