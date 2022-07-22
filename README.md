@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:AA31A8,25:FF6B2C,75:FF6B2C,100:AA31A8&height=250&section=header&text=Alfin%20Indrawan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20Apple%20Platform%20and%20Backend%20Developer!&descAlignY=55&descAlign=63.5&fontColor=ffffff)  
 I'm **Alfin Indrawan** an informatics undergraduate student who aspire to become Apple developer.
 My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS,RealityOS) and extend my skills with Flutter & Javascript for all devices also learning backends like Go , Node and Java  
-<img align="right" width="450" height="270" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif">
+<img align="right" width="400" height="270" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif">
 ## My Personal Stuffs
  
 * ❤️ I love Reading books and articles. Every day i read latest technology AR , Apple, Javascript on Medium , Reddit & Quora. While i'm learning using books because how easy to relearn than videos ( Sometimes i use videos if difficult to understand)
