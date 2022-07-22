@@ -23,3 +23,9 @@ jobs:
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_languages_limit: 6
+          plugin_stackoverflow: yes
+          plugin_stackoverflow_user: 18961531
+          plugin_stackoverflow_sections: answers-recent, questions-recent
+          plugin_stackoverflow_limit: 1
+          plugin_stackoverflow_lines_snippet: 0
+          plugin_stackoverflow_lines: 1
