@@ -67,7 +67,8 @@ Other                        ▒░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 <div justify-content="center">
-<a href="https://github.com/AlfinIndrawan/AlfinIndrawan"><img align="center" width="45.5%" display="flex" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfinindrawan&hide=Html,C,C++,Cmake,CSS,makefile&bg_color=15,904e95,F05138&title_color=fff&text_color=fff&layout=compact&hide_border=true&exclude_repo=swiftExplorationBooks-Answer" alt="Alfin's github stats" /></a><a href="https://github.com/AlfinIndrawan/AlfinIndrawan"><img align="center" width="54.5%" src="https://github-readme-stats.vercel.app/api?username=alfinindrawan&bg_color=345,F05138,904e95&title_color=fff&text_color=fff&include_all_commits=true&hide_border=true" /></a>
+ 
+ <a href="https://github.com/AlfinIndrawan/AlfinIndrawan"><img align="center" width="50.5%" display="flex" src="https://github-readme-stats.vercel.app/api/wakatime?username=AlfinIndrawan&langs_count=8&hide=C,C++,markdown,Blade%20Template&bg_color=15,904e95,F05138&title_color=fff&text_color=fff&layout=compact&hide_border=true&exclude_repo=swiftExplorationBooks-Answer&custom_title=Wakatime%20Total%20Stats" alt="Alfin's Wakatime stats" /></a><a href="https://github.com/AlfinIndrawan/AlfinIndrawan"><img align="center" width="49.5%" src="https://github-readme-stats.vercel.app/api?username=alfinindrawan&bg_color=345,F05138,904e95&title_color=fff&text_color=fff&include_all_commits=true&hide_border=true" /></a>
  </div>
 
 
