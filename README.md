@@ -43,6 +43,7 @@ My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS,Reali
 <img src="https://img.shields.io/badge/-ReactiveX-black?style=plastic&logo=reactivex&logoColor=B7178C" height="25" /></img>
 <img src="https://img.shields.io/badge/-Figma-black?style=plastic&logo=figma&logoColor=F24E1E" height="25" /></img>
 <img src="https://img.shields.io/badge/-Tableau-black?style=plastic&logo=tableau&logoColor=E97627" height="25" /></img>
+<img src="https://img.shields.io/badge/-Firebase-black?style=plastic&logo=Firebase&logoColor=E97627" height="25" /></img>
 <img src="https://img.shields.io/badge/-Docker-black?style=plastic&logo=docker" height="25" /></img> <br/> <br/>
 </div>
 
