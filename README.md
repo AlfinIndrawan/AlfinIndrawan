@@ -52,6 +52,9 @@ My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS,Reali
 
 <p align="center"><img src="/github-metrics.svg" alt="Metrics" width="100%"></p>
 <p align="center"><img src="/metrics.plugin.wakatime.svg" alt="Metrics" width="100%"></p>
+
+ ![wakatime](https://wakatime.com/badge/user/544317a4-d0db-4f4a-8383-97af1aa51ca1.svg) ![workflow](https://github.com/AlfinIndrawan/AlfinIndrawan/actions/workflows/Metrics.yml/badge.svg) ![workflow](https://github.com/AlfinIndrawan/AlfinIndrawan/actions/workflows/wakatime.yml/badge.svg?branch=main) ![workflow](https://github.com/AlfinIndrawan/AlfinIndrawan/actions/workflows/wakatime-general.yml/badge.svg?branch=main)
+ 
 <!--START_SECTION:waka-->
 
 ```text
@@ -69,8 +72,6 @@ Other        8 mins          ▒░░░░░░░░░░░░░░░░
 
 <div justify-content="center">
 
- ![wakatime](https://wakatime.com/badge/user/544317a4-d0db-4f4a-8383-97af1aa51ca1.svg) ![workflow](https://github.com/AlfinIndrawan/AlfinIndrawan/actions/workflows/Metrics.yml/badge.svg) ![workflow](https://github.com/AlfinIndrawan/AlfinIndrawan/actions/workflows/wakatime.yml/badge.svg?branch=main) ![workflow](https://github.com/AlfinIndrawan/AlfinIndrawan/actions/workflows/wakatime-general.yml/badge.svg?branch=main)
- 
  <a href="https://github.com/AlfinIndrawan/AlfinIndrawan"><img align="center" width="50.5%" display="flex" src="https://github-readme-stats.vercel.app/api/wakatime?username=AlfinIndrawan&langs_count=8&hide=C,C++,markdown,Blade%20Template&bg_color=15,904e95,F05138&title_color=fff&text_color=fff&layout=compact&hide_border=true&exclude_repo=swiftExplorationBooks-Answer&custom_title=Wakatime%20Total%20Stats%20Since%20May%202022" alt="Alfin's Wakatime stats" /></a><a href="https://github.com/AlfinIndrawan/AlfinIndrawan"><img align="center" width="49.5%" src="https://github-readme-stats.vercel.app/api?username=alfinindrawan&bg_color=345,F05138,904e95&title_color=fff&text_color=fff&include_all_commits=true&hide_border=true" /></a>
  </div>
 
