@@ -1,4 +1,4 @@
-name: Wakatime-Metrics
+name: Wakatime-Weekly
 on:
   # Schedule updates (each day)
   schedule: [{cron: "0 0 * * *"}]
