@@ -1,4 +1,4 @@
-name: Wakatime-Total
+name: Wakatime-Weekly
 
 on:
   # Schedule updates (each day)
