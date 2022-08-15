@@ -51,14 +51,15 @@ My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS,Reali
 <br>
 
 <p align="center"><img src="/github-metrics.svg" alt="Metrics" width="100%"></p>
-<p align="center"><img src="/metrics.plugin.wakatime.svg" alt="Metrics" width="100%"></p>
-
 <div align="center">
 <img src="https://wakatime.com/badge/user/544317a4-d0db-4f4a-8383-97af1aa51ca1.svg" height="25" /></img>
 <img src="https://github.com/AlfinIndrawan/AlfinIndrawan/actions/workflows/Metrics.yml/badge.svg" height="25" /></img>
 <img src="https://github.com/AlfinIndrawan/AlfinIndrawan/actions/workflows/wakatime.yml/badge.svg?branch=main" height="25" /></img>
 <img src="https://github.com/AlfinIndrawan/AlfinIndrawan/actions/workflows/wakatime-general.yml/badge.svg?branch=main" height="25" /></img> <br/> <br/>
 </div>
+<p align="center"><img src="/metrics.plugin.wakatime.svg" alt="Metrics" width="100%"></p>
+
+
 
 <!--START_SECTION:waka-->
 
