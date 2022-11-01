@@ -65,7 +65,9 @@ My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS,Reali
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 24 October 2022 - To: 31 October 2022
+
+Go   3 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
