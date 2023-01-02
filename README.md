@@ -79,7 +79,7 @@ Cocoa   23 mins         ███▒░░░░░░░░░░░░░░�
  </div>
 
 <p>
- note: Wakatime is very accurate coding x languange in 8 hours dont mean you will get 8 hours since you will swap browser and other things. it will count when you really coding
+ note: Wakatime is very accurate coding x languange in 8 hours doesnt mean you will get 8 hours since you will swap browser and other things. it will count when you really coding
  </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:904e95,50:F05138,100:904e95&section=footer&height=80" width="100%"/>
