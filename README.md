@@ -65,13 +65,13 @@ My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS,Reali
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 January 2023 - To: 30 January 2023
+From: 24 January 2023 - To: 31 January 2023
 
-HTML       2 hrs 26 mins   ████████████████▓░░░░░░░░   67.17 %
-CSS        43 mins         █████░░░░░░░░░░░░░░░░░░░░   19.98 %
-Swift      20 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 %
-Go         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
-JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+HTML       1 hr 15 mins    ████████████▓░░░░░░░░░░░░   51.27 %
+CSS        43 mins         ███████▒░░░░░░░░░░░░░░░░░   29.67 %
+Swift      20 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.26 %
+Go         6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
+JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
