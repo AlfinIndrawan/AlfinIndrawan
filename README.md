@@ -81,6 +81,10 @@ Other   3 mins          ▒░░░░░░░░░░░░░░░░░�
 
 <p>
  note: Wakatime is very accurate coding x languange in 8 hours doesnt mean you will get 8 hours since you will swap browser and other things. it will count when you really coding
+
+---
+
+* **Yearly Stats** [Here](https://wakatime.com/a-look-back-at-2022/544317a4-d0db-4f4a-8383-97af1aa51ca1/zvfdyagtce). 
  </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:904e95,50:F05138,100:904e95&section=footer&height=80" width="100%"/>
