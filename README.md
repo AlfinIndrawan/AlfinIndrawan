@@ -50,6 +50,15 @@ My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS,Reali
 ## My Stats
 <br>
 <div align="center">
+<table>
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/AlfinIndrawan/count.svg" alt="" /></td>
+  </tr>
+</table>
+ </div>
+ </div>
+<div align="center">
 <img src="https://wakatime.com/badge/user/544317a4-d0db-4f4a-8383-97af1aa51ca1.svg" height="25" /></img>
 <img src="https://github.com/AlfinIndrawan/AlfinIndrawan/actions/workflows/Metrics.yml/badge.svg" height="25" /></img>
 <img src="https://github.com/AlfinIndrawan/AlfinIndrawan/actions/workflows/wakatime.yml/badge.svg?branch=main" height="25" /></img>
