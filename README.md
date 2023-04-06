@@ -94,6 +94,8 @@ Other    1 min           ▒░░░░░░░░░░░░░░░░░�
 
   note: due to xcode lower version has been disabled in macos ventura i can <strong>no longer track my time in my work device</strong> so all stats you see only available on my personal device mainly for learning. (wakatime cant be configured in xcode 14 and later because it no longer load plugin)
 
+note: most of my work account using gitlab. so you should not using my github commit history as my activity proof :)
+
 ---
 
 * **Yearly Stats** [Here](https://wakatime.com/a-look-back-at-2022/544317a4-d0db-4f4a-8383-97af1aa51ca1/zvfdyagtce). 
