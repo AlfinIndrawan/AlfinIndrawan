@@ -16,6 +16,7 @@ My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS,Reali
 <br>
 <div align="center">
 <img src="https://img.shields.io/badge/-Git-black?style=plastic&logo=git" height="25" /></img>
+<img src="https://img.shields.io/badge/-SourceTree-black?style=plastic&logo=sourcetree" height="25" /></img>
 <img src="https://img.shields.io/badge/-GitHub-black?style=plastic&logo=github" height="25" /></img>
 <img src="https://img.shields.io/badge/-GitLab-black?style=plastic&logo=gitlab" height="25" /></img>
 <img src="https://img.shields.io/badge/-BitBucket-black?style=plastic&logo=bitbucket&logoColor=blue" height="25" /></img> <br/> <br/>
@@ -24,25 +25,20 @@ My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS,Reali
 <img src="https://img.shields.io/badge/Xcode-black?style=plastic&logo=xcode" height="25" /></img> <br/> <br/>
 
 <img src="https://img.shields.io/badge/-Swift-black?style=plastic&logo=swift&logoColor=FF6700" height="25" /></img>
-<img src="https://img.shields.io/badge/-Dart-black?style=plastic&logo=dart&logoColor=007ACC" height="25" /></img>
+<img src="https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript" height="25" /></img>
 <img src="https://img.shields.io/badge/-HTML5-black?style=plastic&logo=html5&logoColor=E34F26" height="25" /></img>
 <img src="https://img.shields.io/badge/-CSS3-black?style=plastic&logo=css3&logoColor=1572B6" height="25" /></img>
-<img src="https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript" height="25" /></img>
-<img src="https://img.shields.io/badge/-C%2B%2B-black?style=plastic&logo=c%2B%2B&logoColor=0180cd" height="25" /></img>
-<img src="https://img.shields.io/badge/-Programming-black?style=plastic&logo=C&logoColor=5d6bc16" height="25" /></img>
 <img src="https://img.shields.io/badge/-Python-black?style=plastic&logo=Python" height="25" /></img>
-<img src="https://img.shields.io/badge/-Go-black?style=plastic&logo=Go" height="25" /></img>
-<img src="https://img.shields.io/badge/PHP-black?style=plastic&logo=php" height="25" /></img> <br/> <br/>
+<img src="https://img.shields.io/badge/-Go-black?style=plastic&logo=Go" height="25" /></img><br/> <br/>
 
 <img src="https://img.shields.io/badge/-Tailwind-black?style=plastic&logo=TailwindCSS" height="25" /></img>
+<img src="https://img.shields.io/badge/-React-black?style=plastic&logo=React&logoColor=0180cd" height="25" /></img>
 <img src="https://img.shields.io/badge/-Nodejs-black?style=plastic&logo=Node.js" height="25" /></img>
 <img src="https://img.shields.io/badge/-MySQL-black?style=plastic&logo=Mysql" height="25" /></img>
 <img src="https://img.shields.io/badge/-PostgreSQL-black?style=plastic&logo=Postgresql" height="25" /></img>
-<img src="https://img.shields.io/badge/-Flutter-black?style=plastic&logo=Flutter&logoColor=0180cd" height="25" /></img>
 <img src="https://img.shields.io/badge/-Laravel-black?style=plastic&logo=Laravel" height="25" /></img>
 <img src="https://img.shields.io/badge/-ReactiveX-black?style=plastic&logo=Reactivex&logoColor=B7178C" height="25" /></img>
 <img src="https://img.shields.io/badge/-Figma-black?style=plastic&logo=Figma&logoColor=F24E1E" height="25" /></img>
-<img src="https://img.shields.io/badge/-Tableau-black?style=plastic&logo=tableau&logoColor=E97627" height="25" /></img>
 <img src="https://img.shields.io/badge/-Firebase-black?style=plastic&logo=Firebase&logoColor=E97627" height="25" /></img>
 <img src="https://img.shields.io/badge/-Docker-black?style=plastic&logo=Docker" height="25" /></img>
 <img src="https://img.shields.io/badge/-One Signal-black?style=plastic&logo=Signal" height="25" /></img>
