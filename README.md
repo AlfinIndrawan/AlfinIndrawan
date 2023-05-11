@@ -90,8 +90,6 @@ Cocoa Apple   50 mins         █░░░░░░░░░░░░░░░�
 <p>
  note: Wakatime is very accurate coding x languange in 8 hours doesnt mean you will get 8 hours since you will swap browser and other things. it will count when you really coding  
 
-  note: due to xcode lower version has been disabled in macos ventura i can <strong>no longer track my time in my work device</strong> so all stats you see only available on my personal device mainly for learning. (wakatime cant be configured in xcode 14 and later because it no longer load plugin)
-
 note: most of my work account using gitlab. so you should not using my github commit history as my activity proof :)
 
 ---
