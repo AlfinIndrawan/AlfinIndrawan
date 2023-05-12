@@ -35,7 +35,7 @@ My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS) and 
 <img src="https://img.shields.io/badge/-Nodejs-black?style=plastic&logo=Node.js" height="25" /></img>
 <img src="https://img.shields.io/badge/-MySQL-black?style=plastic&logo=Mysql" height="25" /></img>
 <img src="https://img.shields.io/badge/-PostgreSQL-black?style=plastic&logo=Postgresql" height="25" /></img>
-<img src="https://img.shields.io/badge/-Laravel-black?style=plastic&logo=Laravel" height="25" /></img>
+<img src="https://img.shields.io/badge/-Vercel-black?style=plastic&logo=Vercel" height="25" /></img>
 <img src="https://img.shields.io/badge/-ReactiveX-black?style=plastic&logo=Reactivex&logoColor=B7178C" height="25" /></img>
 <img src="https://img.shields.io/badge/-Figma-black?style=plastic&logo=Figma&logoColor=F24E1E" height="25" /></img>
 <img src="https://img.shields.io/badge/-Firebase-black?style=plastic&logo=Firebase&logoColor=E97627" height="25" /></img>
