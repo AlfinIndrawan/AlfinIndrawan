@@ -24,11 +24,12 @@ My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS) and 
 <img src="https://img.shields.io/badge/-GitLab-black?style=plastic&logo=gitlab" height="25" /></img> <br/> <br/>
 
 <img src="https://img.shields.io/badge/-Swift-black?style=plastic&logo=swift&logoColor=FF6700" height="25" /></img>
+<img src="https://img.shields.io/badge/-Zsh/Bash-black?style=plastic&logo=gnu%20bash" height="25" /></img>
 <img src="https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript" height="25" /></img>
 <img src="https://img.shields.io/badge/-HTML5-black?style=plastic&logo=html5&logoColor=E34F26" height="25" /></img>
 <img src="https://img.shields.io/badge/-CSS3-black?style=plastic&logo=css3&logoColor=1572B6" height="25" /></img>
-<img src="https://img.shields.io/badge/-Python-black?style=plastic&logo=Python" height="25" /></img>
-<img src="https://img.shields.io/badge/-Go-black?style=plastic&logo=Go" height="25" /></img><br/> <br/>
+<img src="https://img.shields.io/badge/-Go-black?style=plastic&logo=Go" height="25" /></img>
+<img src="https://img.shields.io/badge/-Python-black?style=plastic&logo=Python" height="25" /></img> <br/> <br/>
 
 <img src="https://img.shields.io/badge/-Tailwind-black?style=plastic&logo=TailwindCSS" height="25" /></img>
 <img src="https://img.shields.io/badge/-React-black?style=plastic&logo=React&logoColor=0180cd" height="25" /></img>
@@ -42,7 +43,7 @@ My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS) and 
 <img src="https://img.shields.io/badge/-Docker-black?style=plastic&logo=Docker" height="25" /></img>
 <img src="https://img.shields.io/badge/-One Signal-black?style=plastic&logo=Signal" height="25" /></img>
 <img src="https://img.shields.io/badge/-FigIo-black?style=plastic&logo=Fig" height="25" /></img>
-<img src="https://img.shields.io/badge/-Alfred-black?style=plastic&logo=Alfred" height="25" /></img>
+<img src="https://img.shields.io/badge/-Alfred-black?style=plastic&logo=Alfred&logoColor=5C1F87" height="25" /></img>
 <img src="https://img.shields.io/badge/-Homebrew-black?style=plastic&logo=Homebrew" height="25" /></img>
 <img src="https://img.shields.io/badge/-Iterm2-black?style=plastic&logo=Iterm2" height="25" /></img>
 <img src="https://img.shields.io/badge/-Postman-black?style=plastic&logo=postman" height="25" /></img> <br/> <br/>
