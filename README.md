@@ -45,6 +45,7 @@ My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS) and 
 <img src="https://img.shields.io/badge/-FigIo-black?style=plastic&logo=Fig" height="25" /></img>
 <img src="https://img.shields.io/badge/-Homebrew-black?style=plastic&logo=Homebrew" height="25" /></img>
 <img src="https://img.shields.io/badge/-Iterm2-black?style=plastic&logo=Iterm2" height="25" /></img>
+<img src="https://img.shields.io/badge/-NPM-black?style=plastic&logo=npm" height="25" /></img>
 <img src="https://img.shields.io/badge/-Postman-black?style=plastic&logo=postman" height="25" /></img> <br/> <br/>
 </div>
 
