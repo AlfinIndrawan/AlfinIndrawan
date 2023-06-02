@@ -31,6 +31,7 @@ My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS) and 
 <img src="https://img.shields.io/badge/-Go-black?style=plastic&logo=Go" height="25" /></img>
 <img src="https://img.shields.io/badge/-Python-black?style=plastic&logo=Python" height="25" /></img> <br/> <br/>
 
+<img src="https://img.shields.io/badge/-SwiftUI-black?style=plastic&logo=swift&logoColor=037BC2" height="25" /></img>
 <img src="https://img.shields.io/badge/-Tailwind-black?style=plastic&logo=TailwindCSS" height="25" /></img>
 <img src="https://img.shields.io/badge/-React-black?style=plastic&logo=React&logoColor=0180cd" height="25" /></img>
 <img src="https://img.shields.io/badge/-Nodejs-black?style=plastic&logo=Node.js" height="25" /></img>
@@ -80,7 +81,8 @@ From: 25 May 2023 - To: 01 June 2023
 
 XML     22 mins         ███████████░░░░░░░░░░░░░░   44.50 %
 Other   18 mins         █████████▓░░░░░░░░░░░░░░░   38.13 %
-Swift   8 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.37 %
+
+8 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.37 %
 ```
 
 <!--END_SECTION:waka-->
