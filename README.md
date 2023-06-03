@@ -33,21 +33,22 @@ My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS) and 
 
 <img src="https://img.shields.io/badge/-Storyboard-black?style=plastic&logo=swift&logoColor=FFD02D" height="25" /></img>
 <img src="https://img.shields.io/badge/-SwiftUI-black?style=plastic&logo=swift&logoColor=037BC2" height="25" /></img>
-<img src="https://img.shields.io/badge/-FigIo-black?style=plastic&logo=Fig" height="25" /></img>
 <img src="https://img.shields.io/badge/-Homebrew-black?style=plastic&logo=Homebrew" height="25" /></img>
-<img src="https://img.shields.io/badge/-Iterm2-black?style=plastic&logo=Iterm2" height="25" /></img>
-<img src="https://img.shields.io/badge/-Postman-black?style=plastic&logo=postman" height="25" /></img> 
-<img src="https://img.shields.io/badge/-Figma-black?style=plastic&logo=Figma&logoColor=F24E1E" height="25" /></img>
-<img src="https://img.shields.io/badge/-Firebase-black?style=plastic&logo=Firebase&logoColor=E97627" height="25" /></img>
 <img src="https://img.shields.io/badge/-ReactiveX-black?style=plastic&logo=Reactivex&logoColor=B7178C" height="25" /></img>
-<img src="https://img.shields.io/badge/-Docker-black?style=plastic&logo=Docker" height="25" /></img>
 <img src="https://img.shields.io/badge/-Tailwind-black?style=plastic&logo=TailwindCSS" height="25" /></img>
 <img src="https://img.shields.io/badge/-React-black?style=plastic&logo=React&logoColor=0180cd" height="25" /></img>
 <img src="https://img.shields.io/badge/-Nodejs-black?style=plastic&logo=Node.js" height="25" /></img>
-<img src="https://img.shields.io/badge/-MySQL-black?style=plastic&logo=Mysql" height="25" /></img>
+<img src="https://img.shields.io/badge/-NPM-black?style=plastic&logo=npm" height="25" /></img> 
+
+<img src="https://img.shields.io/badge/-FigIo-black?style=plastic&logo=Fig" height="25" /></img>
+<img src="https://img.shields.io/badge/-Postman-black?style=plastic&logo=postman" height="25" /></img> 
+<img src="https://img.shields.io/badge/-Figma-black?style=plastic&logo=Figma&logoColor=F24E1E" height="25" /></img>
+<img src="https://img.shields.io/badge/-Firebase-black?style=plastic&logo=Firebase&logoColor=E97627" height="25" /></img>
 <img src="https://img.shields.io/badge/-PostgreSQL-black?style=plastic&logo=Postgresql" height="25" /></img>
 <img src="https://img.shields.io/badge/-Vercel-black?style=plastic&logo=Vercel" height="25" /></img>
-<img src="https://img.shields.io/badge/-NPM-black?style=plastic&logo=npm" height="25" /></img> <br/> <br/>
+<img src="https://img.shields.io/badge/-MySQL-black?style=plastic&logo=Mysql" height="25" /></img>
+<img src="https://img.shields.io/badge/-Docker-black?style=plastic&logo=Docker" height="25" /></img>
+<img src="https://img.shields.io/badge/-Iterm2-black?style=plastic&logo=Iterm2" height="25" /></img>
 
 </div>
 
