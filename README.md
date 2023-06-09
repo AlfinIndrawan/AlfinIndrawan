@@ -9,7 +9,7 @@ My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS) and 
 * 📩 How to reach me: [alfin@alfinindrawan.com](mailto:alfin@alfinindrawan.com)
 * 📝 See my Linkedin [Here](https://www.linkedin.com/in/alfinindrawan/). 
 * 🌐 See my Website [here](https://github.com/Alfinindrawan) (in Production).
-* 📚 List of Books that i [Read](https://github.com/AlfinIndrawan/MyBooksProgress).
+* 📚 List of Books that i [Read](https://github.com/AlfinIndrawan/MyBooks).
 * 😬 Don't misunderstand me as Apple fanboy hehe. I want to become Apple Developer because how small its developer and big potential in Apple Ecosystem. I will use other tools if i want to
 
 ## My Tools
