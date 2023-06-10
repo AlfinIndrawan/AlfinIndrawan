@@ -15,40 +15,40 @@ My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS) and 
 ## My Tools
 <br>
 <div align="center">
-<img src="https://img.shields.io/badge/-VS%20Code-black?style=plastic&logo=visual-studio-code&logoColor=007ACC" height="25" /></img>
-<img src="https://img.shields.io/badge/Xcode-black?style=plastic&logo=xcode" height="25" /></img> <br/> <br/>
+<img src="https://img.shields.io/badge/-VS%20Code-black?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" height="25" /></img>
+<img src="https://img.shields.io/badge/Xcode-black?style=for-the-badge&logo=xcode" height="25" /></img> <br/> <br/>
  
-<img src="https://img.shields.io/badge/-Git-black?style=plastic&logo=git" height="25" /></img>
-<img src="https://img.shields.io/badge/-SourceTree-black?style=plastic&logo=sourcetree" height="25" /></img>
-<img src="https://img.shields.io/badge/-GitHub-black?style=plastic&logo=github" height="25" /></img>
-<img src="https://img.shields.io/badge/-GitLab-black?style=plastic&logo=gitlab" height="25" /></img> <br/> <br/>
+<img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git" height="25" /></img>
+<img src="https://img.shields.io/badge/-SourceTree-black?style=for-the-badge&logo=sourcetree" height="25" /></img>
+<img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github" height="25" /></img>
+<img src="https://img.shields.io/badge/-GitLab-black?style=for-the-badge&logo=gitlab" height="25" /></img> <br/> <br/>
 
-<img src="https://img.shields.io/badge/-Swift-black?style=plastic&logo=swift&logoColor=FF6700" height="25" /></img>
-<img src="https://img.shields.io/badge/-Zsh/Bash-black?style=plastic&logo=gnu%20bash" height="25" /></img>
-<img src="https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript" height="25" /></img>
-<img src="https://img.shields.io/badge/-HTML5-black?style=plastic&logo=html5&logoColor=E34F26" height="25" /></img>
-<img src="https://img.shields.io/badge/-CSS3-black?style=plastic&logo=css3&logoColor=1572B6" height="25" /></img>
-<img src="https://img.shields.io/badge/-Go-black?style=plastic&logo=Go" height="25" /></img>
-<img src="https://img.shields.io/badge/-Python-black?style=plastic&logo=Python" height="25" /></img> <br/> <br/>
+<img src="https://img.shields.io/badge/-Swift-black?style=for-the-badge&logo=swift&logoColor=FF6700" height="25" /></img>
+<img src="https://img.shields.io/badge/-Zsh/Bash-black?style=for-the-badge&logo=gnu%20bash" height="25" /></img>
+<img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript" height="25" /></img>
+<img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=E34F26" height="25" /></img>
+<img src="https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3&logoColor=1572B6" height="25" /></img>
+<img src="https://img.shields.io/badge/-Go-black?style=for-the-badge&logo=Go" height="25" /></img>
+<img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python" height="25" /></img> <br/> <br/>
 
-<img src="https://img.shields.io/badge/-Storyboard-black?style=plastic&logo=swift&logoColor=FFD02D" height="25" /></img>
-<img src="https://img.shields.io/badge/-SwiftUI-black?style=plastic&logo=swift&logoColor=037BC2" height="25" /></img>
-<img src="https://img.shields.io/badge/-Homebrew-black?style=plastic&logo=Homebrew" height="25" /></img>
-<img src="https://img.shields.io/badge/-ReactiveX-black?style=plastic&logo=Reactivex&logoColor=B7178C" height="25" /></img>
-<img src="https://img.shields.io/badge/-Tailwind-black?style=plastic&logo=TailwindCSS" height="25" /></img>
-<img src="https://img.shields.io/badge/-React-black?style=plastic&logo=React&logoColor=0180cd" height="25" /></img>
-<img src="https://img.shields.io/badge/-Nodejs-black?style=plastic&logo=Node.js" height="25" /></img>
-<img src="https://img.shields.io/badge/-NPM-black?style=plastic&logo=npm" height="25" /></img> 
+<img src="https://img.shields.io/badge/-UIKit-black?style=for-the-badge&logo=swift&logoColor=FFD02D" height="25" /></img>
+<img src="https://img.shields.io/badge/-SwiftUI-black?style=for-the-badge&logo=swift&logoColor=037BC2" height="25" /></img>
+<img src="https://img.shields.io/badge/-Homebrew-black?style=for-the-badge&logo=Homebrew" height="25" /></img>
+<img src="https://img.shields.io/badge/-ReactiveX-black?style=for-the-badge&logo=Reactivex&logoColor=B7178C" height="25" /></img>
+<img src="https://img.shields.io/badge/-Tailwind-black?style=for-the-badge&logo=TailwindCSS" height="25" /></img>
+<img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React&logoColor=0180cd" height="25" /></img>
+<img src="https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js" height="25" /></img>
+<img src="https://img.shields.io/badge/-NPM-black?style=for-the-badge&logo=npm" height="25" /></img> 
 
-<img src="https://img.shields.io/badge/-FigIo-black?style=plastic&logo=Fig" height="25" /></img>
-<img src="https://img.shields.io/badge/-Postman-black?style=plastic&logo=postman" height="25" /></img> 
-<img src="https://img.shields.io/badge/-Figma-black?style=plastic&logo=Figma&logoColor=F24E1E" height="25" /></img>
-<img src="https://img.shields.io/badge/-Firebase-black?style=plastic&logo=Firebase&logoColor=E97627" height="25" /></img>
-<img src="https://img.shields.io/badge/-PostgreSQL-black?style=plastic&logo=Postgresql" height="25" /></img>
-<img src="https://img.shields.io/badge/-Vercel-black?style=plastic&logo=Vercel" height="25" /></img>
-<img src="https://img.shields.io/badge/-MySQL-black?style=plastic&logo=Mysql" height="25" /></img>
-<img src="https://img.shields.io/badge/-Docker-black?style=plastic&logo=Docker" height="25" /></img>
-<img src="https://img.shields.io/badge/-Iterm2-black?style=plastic&logo=Iterm2" height="25" /></img>
+<img src="https://img.shields.io/badge/-FigIo-black?style=for-the-badge&logo=Fig" height="25" /></img>
+<img src="https://img.shields.io/badge/-Postman-black?style=for-the-badge&logo=postman" height="25" /></img> 
+<img src="https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=Figma&logoColor=F24E1E" height="25" /></img>
+<img src="https://img.shields.io/badge/-Firebase-black?style=for-the-badge&logo=Firebase&logoColor=E97627" height="25" /></img>
+<img src="https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=Postgresql" height="25" /></img>
+<img src="https://img.shields.io/badge/-Vercel-black?style=for-the-badge&logo=Vercel" height="25" /></img>
+<img src="https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=Mysql" height="25" /></img>
+<img src="https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=Docker" height="25" /></img>
+<img src="https://img.shields.io/badge/-Iterm2-black?style=for-the-badge&logo=Iterm2" height="25" /></img>
 
 </div>
 
