@@ -33,12 +33,11 @@ My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS) and 
 
 <img src="https://img.shields.io/badge/-UIKit-black?style=for-the-badge&logo=swift&logoColor=FFD02D" height="25" /></img>
 <img src="https://img.shields.io/badge/-SwiftUI-black?style=for-the-badge&logo=swift&logoColor=037BC2" height="25" /></img>
-<img src="https://img.shields.io/badge/-Homebrew-black?style=for-the-badge&logo=Homebrew" height="25" /></img>
 <img src="https://img.shields.io/badge/-ReactiveX-black?style=for-the-badge&logo=Reactivex&logoColor=B7178C" height="25" /></img>
 <img src="https://img.shields.io/badge/-Tailwind-black?style=for-the-badge&logo=TailwindCSS" height="25" /></img>
 <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React&logoColor=0180cd" height="25" /></img>
 <img src="https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js" height="25" /></img>
-<img src="https://img.shields.io/badge/-NPM-black?style=for-the-badge&logo=npm" height="25" /></img> 
+<img src="https://img.shields.io/badge/-Homebrew-black?style=for-the-badge&logo=Homebrew" height="25" /></img>
 
 <img src="https://img.shields.io/badge/-Fig.Io-black?style=for-the-badge&logo=Fig" height="25" /></img>
 <img src="https://img.shields.io/badge/-Postman-black?style=for-the-badge&logo=postman" height="25" /></img> 
