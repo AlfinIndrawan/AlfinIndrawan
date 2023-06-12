@@ -91,7 +91,7 @@ Swift   0 secs          ██████████████████�
  </div>
 
 <picture>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AlfinIndrawan/AlfinIndrawan/output/github-contribution-grid-snake.svg" width="100%">
+  <img alt="github contribution grid snake animation" src="https://github.com/AlfinIndrawan/AlfinIndrawan/blob/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
 <p>
