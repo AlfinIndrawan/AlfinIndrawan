@@ -11,7 +11,7 @@ My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS) and 
 * 🌐 See my Website [here](https://github.com/Alfinindrawan) (in Production).
 * 📚 List of Books that i [Read](https://github.com/AlfinIndrawan/MyBooks).
 * 😬 Don't misunderstand me as Apple fanboy hehe. I want to become Apple Developer because how small its developer and big potential in Apple Ecosystem. I will use other tools if i want to
-* Unpopular opinion here, i hope you dong give me a technical sales role since i really hate countless revision of ppt, my productivity go down a lot 😕. But i like teach others 😁
+* Unpopular opinion here, i hope you dong give me a technical sales role since i really hate countless revision of ppt and presentation, my productivity go down a lot 😕. But i like teach others 😁
 
 ## My Tools
 <br>
