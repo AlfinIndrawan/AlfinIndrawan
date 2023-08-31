@@ -99,8 +99,6 @@ Cocoa Apple   4 mins          ▓░░░░░░░░░░░░░░░�
 <p>
  note: Wakatime is very accurate coding x languange in 8 hours doesnt mean you will get 8 hours since you will swap browser and other things. it will count when you really coding (even i can only get an average arround 4 hours while 5 hours upwards are quite rare and sometimes wakatime will fail to track my work)
 
-note: most of my work account using gitlab. so you should not using my github commit history as my activity proof :)
-
 ---
 
 * **Yearly Stats** [Here](https://wakatime.com/a-look-back-at-2022/544317a4-d0db-4f4a-8383-97af1aa51ca1/zvfdyagtce). 
