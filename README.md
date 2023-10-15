@@ -79,7 +79,7 @@ My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS) and 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 October 2023 - To: 13 October 2023
+From: 07 October 2023 - To: 14 October 2023
 
 Go       48 mins         ████████████████████▒░░░░   80.70 %
 Python   11 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.30 %
