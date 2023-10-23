@@ -79,13 +79,10 @@ My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS) and 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 October 2023 - To: 21 October 2023
+From: 15 October 2023 - To: 22 October 2023
 
-Python     1 hr 59 mins    ████████████████████░░░░░   80.43 %
-Ezhil      12 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.74 %
-JSON       8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
-Assembly   6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
-Text       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+Ezhil    8 mins          █████████████████████░░░░   84.30 %
+Python   1 min           ████░░░░░░░░░░░░░░░░░░░░░   15.70 %
 ```
 
 <!--END_SECTION:waka-->
