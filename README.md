@@ -79,13 +79,13 @@ My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS) and 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 October 2023 - To: 06 November 2023
+From: 31 October 2023 - To: 07 November 2023
 
-Figma Design   1 hr 25 mins    ██████████████▓░░░░░░░░░░   58.76 %
-Swift          44 mins         ███████▓░░░░░░░░░░░░░░░░░   30.66 %
-Go             14 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.21 %
-Other          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
-Text           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Figma Design   1 hr 1 min      ████████████▓░░░░░░░░░░░░   50.51 %
+Swift          44 mins         █████████▒░░░░░░░░░░░░░░░   36.80 %
+Go             14 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.26 %
+Other          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+Text           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
