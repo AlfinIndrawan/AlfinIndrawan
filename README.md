@@ -95,7 +95,7 @@ Bash    8 mins          ███████▒░░░░░░░░░░�
   <img alt="github contribution grid snake animation" src="https://github.com/AlfinIndrawan/AlfinIndrawan/blob/output/github-contribution-grid-snake.svg" width="100%">
 
 <p>
- note: Wakatime is very accurate coding x languange in 8 hours doesnt mean you will get 8 hours since you will swap browser and other things. it will count when you really coding (even i can only get an average arround 4 hours while 5 hours upwards are quite rare and sometimes wakatime will fail to track my work)
+ note: Wakatime is quite accurate coding x languange in 8 hours doesnt mean you will get 8 hours since you will swap browser and other things. 
  
 
 ---
