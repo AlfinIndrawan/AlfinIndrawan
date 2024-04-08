@@ -79,7 +79,7 @@ My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS) and 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 March 2024 - To: 06 April 2024
+From: 31 March 2024 - To: 07 April 2024
 
 Figma Design   7 hrs 21 mins   █████████████████████████   100.00 %
 ```
