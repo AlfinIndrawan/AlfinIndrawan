@@ -79,13 +79,13 @@ My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS) and 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 April 2024 - To: 07 May 2024
+From: 01 May 2024 - To: 08 May 2024
 
-Swift          13 hrs 12 mins  █████████████████████▒░░░   85.79 %
-Other          44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
-HTTP Request   35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
-Figma Design   18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
-Cocoa Apple    17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
+Swift          14 hrs 20 mins  █████████████████████▓░░░   86.72 %
+Other          45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
+HTTP Request   35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
+Figma Design   18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+Cocoa Apple    17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
 ```
 
 <!--END_SECTION:waka-->
