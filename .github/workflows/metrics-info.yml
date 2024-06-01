@@ -1,4 +1,4 @@
-name: Metrics
+name: Metrics-info
 on:
   # Schedule updates (each hour)
   schedule: [{cron: "0 * * * *"}]
@@ -26,6 +26,6 @@ jobs:
           # Options
           user: AlfinIndrawan
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, repositories
           config_timezone: Asia/Jakarta
           repositories_batch: 100
