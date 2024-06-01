@@ -16,7 +16,7 @@ jobs:
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN}}
           plugin_wakatime_limit: 5
-          plugin_wakatime_sections: time, languages, os
+          plugin_wakatime_sections: time, projects, languages, editors, os
           # Ignore languages below
           plugin_wakatime_languages_ignored: html, css, blade template, yaml, markdown, cocoa
           plugin_wakatime_languages_other: no
