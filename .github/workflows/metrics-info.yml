@@ -25,7 +25,7 @@ jobs:
 
           # Options
           user: AlfinIndrawan
-          template: classic
+          template: classic, activity
           base: header
           config_timezone: Asia/Jakarta
           repositories_batch: 100
