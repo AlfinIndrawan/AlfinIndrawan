@@ -14,6 +14,7 @@ jobs:
           token: NOT_NEEDED
           base: ""
           plugin_wakatime: yes
+          # this need wakatime secret api key token in https://wakatime.com/settings/account
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN}}
           plugin_wakatime_limit: 5
           plugin_wakatime_sections: time, projects, languages, editors, os
