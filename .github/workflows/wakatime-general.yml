@@ -2,6 +2,8 @@ name: Wakatime-general
 on:
   # Schedule updates (each day)
   schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
+  push: {branches: ["main"]}
   # Lines below let you run workflow manually and on each commit
 
 jobs:
