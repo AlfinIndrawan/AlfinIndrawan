@@ -8,11 +8,11 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
+    # permissions:
+    #   contents: write
+    # steps:
+    #   - uses: lowlighter/metrics@latest
+    #     with:
           # Your GitHub token
           # The following scopes are required:
           #  - public_access (default scope)
@@ -21,9 +21,9 @@ jobs:
           #  - read:user     (for user related data)
           #  - read:packages (for some packages related data)
           #  - repo          (optional, if you want to include private repositories)
-          token: ${{ secrets.METRICS_TOKEN }}
+          # token: ${{ secrets.METRICS_TOKEN }}
 
-          # Options
-          template: classic
-          base: header, activity
-          config_timezone: Asia/Jakarta
+          # # Options
+          # template: classic
+          # base: header, activity
+          # config_timezone: Asia/Jakarta
