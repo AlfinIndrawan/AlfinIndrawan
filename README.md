@@ -6,7 +6,7 @@ My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS) and 
 <img align="right" width="400" height="270" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif"><br>
 * ❤️ I love Reading books and articles. Every day i read latest technology AR , Apple, Javascript on Medium , Reddit or google news. While i'm learning using books because how easy to relearn than videos ( Sometimes i use videos if difficult to understand)
 * 🔭 I’m currently focusing  Swift and Javascript
-* 📩 How to reach me: [alfinindrawan54@gmail.com](mailto:alfinindrawan54@gmail.com)
+* 📩 How to reach me: [alfinindrawann@gmail.com](mailto:alfinindrawannn@gmail.com)
 * 📝 See my Linkedin [Here](https://www.linkedin.com/in/alfinindrawan/). 
 * 🌐 See my Website [here](https://github.com/Alfinindrawan) (in Production).
 * 📚 List of Books that i [Read](https://github.com/AlfinIndrawan/MyBooks).
