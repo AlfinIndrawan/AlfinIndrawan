@@ -8,7 +8,7 @@ My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS) and 
 * 🔭 I’m currently focusing  Swift and Javascript
 * 📩 How to reach me: [alfinindrawann@gmail.com](mailto:alfinindrawannn@gmail.com)
 * 📝 See my Linkedin [Here](https://www.linkedin.com/in/alfinindrawan/). 
-* 🌐 See my Website [alfinindrawan.com](https://alfinindrawan.com) (in Development).
+* 🌐 See my Website [alfinindrawan.com](https://alfinindrawan.com).
 * 📚 List of Books that i [Read](https://github.com/AlfinIndrawan/MyBooks).
 * 😬 Don't misunderstand me as Apple fanboy hehe. I want to become Apple Developer because how small its developer and big potential in Apple Ecosystem. I will use other tools if i want to
 <!-- * 😕 Unpopular opinion here, i hope you dont give me a technical sales role since i really dont like countless revision of ppt and presentation (meetings is still fine), my productivity go down a lot. But i like to teach others 😁 -->
