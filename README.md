@@ -1,11 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:AA31A8,25:FF6B2C,75:FF6B2C,100:AA31A8&height=250&section=header&text=Alfin%20Indrawan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20Apple%20Platform%20and%20Web%20Developer!&descAlignY=53&descAlign=68&fontColor=ffffff)  
-I'm **Alfin Indrawan** an informatics undergraduate student who aspire to become Apple developer.
-My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS) and extend my skills with Javascript for all devices also building web with NextJS
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:AA31A8,25:FF6B2C,75:FF6B2C,100:AA31A8&height=250&section=header&text=Alfin%20Indrawan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20Software%20Developer!&descAlignY=53&descAlign=76&fontColor=ffffff)  
+I'm **Alfin Indrawan** an informatics undergraduate student who aspire to become Software developer.
+My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS) and extend my skills with Javascript/Typescript for all devices and backend with Golang
 
 ## My Personal Stuffs
 <img align="right" width="400" height="270" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif"><br>
 * ❤️ I love Reading books and articles. Every day i read latest technology AR , Apple, Javascript on Medium , Reddit or google news. While i'm learning using books because how easy to relearn than videos ( Sometimes i use videos if difficult to understand)
-* 🔭 I’m currently focusing  Swift and Javascript
+* 🔭 I’m currently focusing  Swift and Javascript/Typescript
 * 📩 How to reach me: [alfinindrawann@gmail.com](mailto:alfinindrawannn@gmail.com)
 * 📝 See my Linkedin [Here](https://www.linkedin.com/in/alfinindrawan/). 
 * 🌐 See my Website [alfinindrawan.com](https://alfinindrawan.com).
