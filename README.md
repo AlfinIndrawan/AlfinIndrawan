@@ -104,7 +104,7 @@ HTTP Request   0 secs          ░░░░░░░░░░░░░░░░�
 
 ---
 
-* **Yearly Stats** [Here](https://wakatime.com/a-look-back-at-2023/544317a4-d0db-4f4a-8383-97af1aa51ca1/milpcvxoga). 
+* **Yearly Stats** [Here](https://wakatime.com/a-look-back-at-2024/544317a4-d0db-4f4a-8383-97af1aa51ca1/ytlzfufnbb). 
  </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:904e95,50:F05138,100:904e95&section=footer&height=80" width="100%"/>
