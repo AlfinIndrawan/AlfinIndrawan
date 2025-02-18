@@ -11,8 +11,8 @@ My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS) and 
 * 🌐 See my Website [alfinindrawan.com](https://alfinindrawan.com).
 * 📚 List of Books that i [Read](https://github.com/AlfinIndrawan/MyBooks).
 * 😬 Don't misunderstand me as Apple fanboy hehe. I want to become Apple Developer because how small its developer and big potential in Apple Ecosystem. I will use other tools if i want to
-<!-- * 😕 Unpopular opinion here, i hope you dont give me a technical sales role since i really dont like countless revision of ppt and presentation (meetings is still fine), my productivity go down a lot. But i like to teach others 😁 -->
-
+* 💼 Working at Cimb Niaga
+  
 ## My Tools
 <br>
 <div align="center">
@@ -64,6 +64,9 @@ My Journeys are to create **Apple Cross Platform Apps** (IOS,MacOS,WatchOS) and 
  </div>
 <div align="center">
 <img src="https://wakatime.com/badge/user/544317a4-d0db-4f4a-8383-97af1aa51ca1.svg" height="25" /></img>
+
+Due to working at sensitive bank information. all code and commits will not be tracked in this account starting at february 2025
+
 <img src="https://github.com/AlfinIndrawan/AlfinIndrawan/actions/workflows/Metrics.yml/badge.svg" height="25" /></img>
 <img src="https://github.com/AlfinIndrawan/AlfinIndrawan/actions/workflows/wakatime.yml/badge.svg?branch=main" height="25" /></img>
 <img src="https://github.com/AlfinIndrawan/AlfinIndrawan/actions/workflows/wakatime-general.yml/badge.svg?branch=main" height="25" /></img> <br/> <br/>
