@@ -81,10 +81,10 @@ Due to working at sensitive bank information. all code and commits will not be t
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 February 2025 - To: 20 February 2025
+From: 14 February 2025 - To: 21 February 2025
 
-Other   26 mins         ███████████████████▓░░░░░   79.04 %
-MDX     7 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.96 %
+Other   47 mins         █████████████████████▓░░░   86.90 %
+MDX     7 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.10 %
 ```
 
 <!--END_SECTION:waka-->
