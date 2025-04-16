@@ -80,11 +80,9 @@ Due to working at sensitive bank information. all code and commits will not be t
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 April 2025 - To: 14 April 2025
+From: 08 April 2025 - To: 15 April 2025
 
-Java         45 mins         ██████████████████▓░░░░░░   74.92 %
-Git Config   14 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.25 %
-Swift        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+Java   45 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
