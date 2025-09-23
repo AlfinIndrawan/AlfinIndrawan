@@ -80,11 +80,10 @@ Due to working at sensitive bank information. all code and commits will not be t
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 September 2025 - To: 21 September 2025
+From: 15 September 2025 - To: 22 September 2025
 
-Other         7 mins          ███████████████░░░░░░░░░░   59.93 %
-Swift         4 mins          █████████░░░░░░░░░░░░░░░░   36.41 %
-Cocoa Apple   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
+Swift         4 mins          ██████████████████████▓░░   90.84 %
+Cocoa Apple   0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.16 %
 ```
 
 <!--END_SECTION:waka-->
