@@ -80,11 +80,13 @@ Due to working at sensitive bank information. all code and commits will not be t
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 August 2026 - To: 02 September 2026
+From: 27 August 2026 - To: 03 September 2026
 
-Swift         2 mins                ██████████████████████░░░   87.81 %
-XML           0 secs                ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 %
-Cocoa Apple   0 secs                █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
+Swift         1 hr 56 mins          ███████████████████▓░░░░░   78.19 %
+Other         28 mins               ████▓░░░░░░░░░░░░░░░░░░░░   19.24 %
+XML           2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+Cocoa Apple   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+JSON          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
